@@ -1,0 +1,142 @@
+subject_id,site_id,date_of_birth,consent_date,sex,ethnicity,state_of_origin,treatment_arm,weight,height,study_status,lga
+pt0015,ST03,08/09/1975,18.07.2021,Woman,nupe,Ibadan,PLB,69.7,"5'11""",completed,Alimosho
+PT0118,Site02,30/05/1976,2021-11-15,F,fulani,abuja,treatment A,94.7kg,178.4 cm,WITHDRAWN,Surulere
+PT0104,Site04,05/01/1992,15/02/2022,2,igbo,RIVERS,treatment B,59.9,172.0 CM,Completed,Ika North-East
+PT0060,site01,24/05/1963,09/09/2021,MALE,tiv,oyo,TREATMENT B,48.5 KG,165.5,withdrawn,Ughelli North
+PT0013,SITE05,02/05/1962,06 Aug 2021,man,Efik-Ibibio,EN,Drug A,81.3 kg,72.6 in,ongoing,Fagge
+PT0059,S04,09-05-1970,01-02-2022,Female,Ibo,Delta State,Control,58.8kg,150.4cm,Complete,Kaduna North
+PT0045,ST05,"March 27, 1951",2021-03-18,Male,Yorùbá,Lagos,treatment A,97.2,"6'2""",Failed Screen,Zaria
+PT0024,S02,22/10/1966,18.10.2021,F,edo,abuja,Treatment A,211.9 lbs,178.7 cm,Withdrew,Ogbomosho North
+PT0105,S04,02/27/68,03-25-2021,F,tiv,ANAMBRA,TRT-A,87.4,"5'6""",Active,Enugu North
+pt0052,SITE01,1955-11-02,26.03.2021,male,Yoruba,ANAMBRA,Treatment B,97.5 kg,179.3 cm,active,Surulere
+PT0108,SITE03,1959-07-26,06/10/2021,m,Tiv,Lagos,treatment A,220.7lb,182.2cm,withdrew,Surulere
+PT0114,ST01,1962-03-16,07/02/2022,m,ijaw,Kano,Treatment B,106.4kg,165.7 CM,ScreenFail,Ogbomosho North
+PT0025,S04,25/03/1972,08/05/2021,female,EFIK,Lagos State,Arm B,204.6lb,"5'10""",Active,Ughelli North
+PT0028,ST02,05-16-1971,"June 13, 2022",F,Hausa,OYO,TRT-A,104.6,186.8 cm,Completed,Konduga
+PT0096,site04,20 Sep 1951,2021-12-14,Woman,Hausa,EN,treatment B,189.6 lbs,62.2 in,Withdrew,Nsukka
+PT0046,ST01,01/02/55,06.03.2021,woman,Hausa,Enugu State,Arm A,61.6 KG,178.2 cm,Complete,Kosofe
+PT0042,site02,11/25/96,01/12/22,MALE,edo,EN,TREATMENT A,65.8 kg,167.7cm,Screen Fail,Onitsha North
+PT0095,S03,1964-11-27,2022-03-29,Man,Edo,Enugu State,Arm B,101.5,185.2 cm,Complete,Kano Municipal
+PT0030,S05,20/12/1960,16.04.2022,m,Urhobo,Lagos State,Drug A,94.2kg,190.3 CM,Withdrew,Maiduguri
+PT0004,ST02,03-07-1971,04-21-2022,2,igbo,delta,TRT-A,83.7,"5'10""",ongoing,Konduga
+PT0073,S03,"September 17, 1982","June 05, 2022",Man,Efik,Oyo State,placebo,195.6 lbs,169.7 cm,complete,Onitsha North
+PT0054,S04,1959-11-27,03/25/22,male,Ibo,Kano,Arm A,57.4kg,166.1 CM,Withdrawn,Ogbomosho North
+PT0032,SITE04,10-13-1983,01 Apr 2022,male,URHOBO,borno,treatment B,54.6 KG,155.3,active,Nsukka
+PT0087,Site01,"January 15, 1985",05-27-2022,Woman,nupe,Lagos,TRT-A,88.1 KG,156.7,ScreenFail,Kosofe
+PT0125,S04,07/01/66,28/02/2021,Male,kanuri,Borno,PBO,192.9 lbs,177.5 CM,Ongoing,Ogbomosho North
+PT0037,S03,05-07-1979,16/12/2021,f,Igbo,Enugu,arm_b,74.3 kg,173.2 cm,withdrawn,Kano Municipal
+pt0108,SITE03,1959-07-26,06/10/2021,m,Tiv,Lagos,treatment A,220.7lb,182.2cm,withdrew,Surulere
+PT0076,ST04,2000-07-22,06.04.2022,m,Peul,Kano,PBO,69.6,60.8 in,Ongoing,Kosofe
+PT0040,ST02,01.10.1981,"August 09, 2021",m,Efik-Ibibio,KANO,control,61.1,186.3 cm,Complete,Kano Municipal
+PT0114,ST01,1962-03-16,07/02/2022,M,ijaw,Kano,Treatment B,106.4kg,165.7 CM,ScreenFail,Ogbomosho North
+PT0074,SITE04,24 Nov 1991,2022-03-31,M,efik,Kano,TREATMENT A,61.0 kg,184.8 CM,withdrawn,Ogbomosho North
+PT0117,site02,06-28-1997,2022-03-10,f,izon,Ibadan,TRT-B,53.8 KG,"5'9""",completed,Awka South
+PT0075,SITE03,05/06/50,11 May 2022,1,IGBO,Anambra State,control,107.3 kg,159.6 CM,WITHDRAWN,Alimosho
+PT0122,S05,"December 18, 1969",06-24-2021,f,Tiv,lagos,treatment B,90.5kg,191.4 CM,Screen Fail,Maiduguri
+PT0003,site04,03/06/87,"November 21, 2021",man,Ibibio,LAGOS,Drug A,93.7,72.6 in,WD,Maiduguri
+PT0110,Site03,1995-06-14,07/04/2021,Woman,URHOBO,lagos,PLACEBO,108.6 KG,62.9 in,WITHDRAWN,Kosofe
+PT0057,ST03,09-27-1962,04/27/21,2,Haoussa,lagos,Drug A,146.9lb,191.2 CM,SCREEN FAIL,Zaria
+PT0066,S01,"August 19, 1996",10 Jul 2021,2,NUPE,AN,PBO,77.3 KG,191.2cm,completed,Awka South
+PT0047,Site04,1984-06-06,06-14-2022,MALE,Fula,Delta,Drug B,86.2kg,184.0cm,Withdrew,Ogbomosho North
+PT0009,Site02,07/06/1992,18/11/2021,FEMALE,urhobo,rivers,Drug B,156.6 lbs,74.4 in,screen fail,Ogbomosho North
+PT0090,site01,09.05.1955,10/11/2021,f,Fulani,Lagos State,arm_a,81.6 KG,"5'6""",COMPLETED,Onitsha North
+PT0099,site01,23/12/1975,11/11/21,female,TIV,Enugu State,Drug A,51.7,72.0 in,active,Zaria
+PT0065,S05,08/30/59,04-21-2022,man,edo,KN,TRT-B,191.0 lbs,151.8 cm,Active,Maiduguri
+PT0019,S05,04.01.1975,"January 27, 2022",m,Efik,anambra,TREATMENT B,213.7lb,161.6cm,WD,Fagge
+PT0049,S02,"July 06, 1993",04 Feb 2021,man,HAUSA,Lagos,Drug B,99.2kg,169.5,Complete,Surulere
+PT0094,S02,"January 03, 1952","June 17, 2022",m,URHOBO,Enugu State,arm_b,97.1 KG,"6'5""",complete,Alimosho
+PT0103,S05,09-29-1968,12/10/21,Male,igbo,OYO,Treatment B,129.4 lbs,187.6 CM,screen fail,Ibadan North
+PT0081,S03,1983-12-23,"December 10, 2021",2,Fula,Lagos,TRT-A,89.3 kg,163.5cm,SF,Alimosho
+PT0098,S02,10.04.1998,20/07/2021,F,EFIK,Delta,control,101.3,152.9 CM,Withdrawn,Nsukka
+PT0012,SITE05,12.04.1979,13 Jun 2021,Male,HAUSA,enugu,Treatment A,86.4 KG,158.1 cm,ONGOING,Onitsha North
+PT0068,SITE04,08.05.1963,08/09/2021,Female,Peul,lagos,placebo,73.4kg,73.5 in,SF,Enugu North
+PT0023,site05,07-11-1992,09/09/2021,Female,nupe,Kaduna,arm_b,104.7lb,178.0,ONGOING,Ibadan North
+PT0102,S04,05.09.1964,06-18-2022,Female,YORUBA,abuja,Treatment B,129.0lb,63.2 in,completed,Surulere
+PT0112,Site01,04 Feb 1974,14.12.2021,M,URHOBO,Port Harcourt,PBO,107.9 KG,165.7 cm,complete,Eleme
+PT0056,SITE04,1996-04-29,09-15-2021,1,Nupe,Anambra State,arm_a,154.8lb,"6'4""",complete,Kaduna North
+PT0055,Site03,"August 01, 1987",09-25-2021,FEMALE,urhobo,Enugu State,TREATMENT A,87.7 KG,156.7 CM,ScreenFail,Awka South
+PT0048,ST01,09/08/2000,"May 21, 2022",man,YORUBA,kano,TREATMENT B,68.8kg,169.7,Active,Kano Municipal
+pt0047,Site04,1984-06-06,06-14-2022,MALE,Fula,Delta,Drug B,86.2kg,184.0cm,Withdrew,Ogbomosho North
+PT0051,S04,1959-09-28,2021-11-16,Female,Haoussa,DT,TRT-B,112.5 lbs,184.5,SF,Kano Municipal
+PT0078,Site05,05/30/00,01/09/21,2,nupe,KN,treatment B,49.8 KG,152.6 cm,WD,Eleme
+PT0113,ST03,"October 29, 1958",04.05.2021,1,Nupe,OYO,PBO,79.8 KG,"5'2""",withdrew,Maiduguri
+PT0024,S02,22/10/1966,18.10.2021,Woman,edo,abuja,Treatment A,211.9 lbs,178.7 cm,Withdrew,Ogbomosho North
+PT0002,Site01,07/07/68,04-25-2022,man,EDO,LAGOS,Drug A,209.7 lbs,178.3 cm,screen fail,Ibadan North
+PT0119,site05,10/10/1988,02/24/22,f,tiv,Kano,TREATMENT B,78.8 kg,"5'4""",ScreenFail,Alimosho
+PT0086,S05,1985-05-25,09/12/2021,M,NUPE,rivers,Control,209.9 lbs,160.0 cm,ScreenFail,Kaduna North
+PT0029,S05,01/04/1998,03-20-2022,2,Efik,kano,treatment A,208.6lb,165.9 cm,COMPLETED,Alimosho
+PT0107,ST01,17/07/1971,03-20-2022,m,fulani,delta,Arm B,50.6 KG,176.7cm,completed,Maiduguri
+PT0006,Site01,"January 14, 1977",11/06/21,f,IGBO,ANAMBRA,PLB,51.5kg,"5'3""",In Progress,Surulere
+PT0093,Site03,18 Sep 1989,"December 18, 2021",f,EFIK,Ibadan,Arm B,179.7lb,150.5cm,screen fail,Konduga
+PT0022,site01,11.04.1975,"March 25, 2021",MALE,nupe,RIVERS,arm_b,79.2kg,180.4 CM,Screen Fail,Kano Municipal
+PT0008,Site01,1961-03-30,2021-04-17,m,EFIK,anambra,TREATMENT A,90.4,150.0 cm,withdrawn,Ika North-East
+PT0079,site01,1997-07-18,28.02.2021,f,Yorùbá,Kano State,PBO,76.0 kg,"6'1""",ScreenFail,Enugu North
+PT0080,Site05,23 Jun 1973,30.11.2021,man,URHOBO,Enugu,placebo,82.9kg,72.8 in,Screen Fail,Enugu North
+PT0018,SITE03,10/09/1961,01-30-2022,man,FULANI,KANO,Control,64.2 KG,"6'3""",withdrawn,Ikeja
+PT0111,SITE04,08-06-1982,07/13/21,male,Kanuri,AN,PLACEBO,69.3,194.7 CM,Complete,Zaria
+PT0054,S04,1959-11-27,03/25/22,male,Ibo,Kano,Arm A,57.4kg,166.1 CM,Withdrawn,Ogbomosho North
+PT0100,ST05,11 Jan 1959,"January 03, 2022",Man,Fula,Ibadan,TRT-A,80.3kg,"5'8""",Completed,Surulere
+PT0120,Site05,14/01/1995,"December 18, 2021",1,yoruba,kaduna,control,50.7,182.4 CM,In Progress,Surulere
+PT0115,S05,10-27-1987,09/03/21,F,bini,Rivers,Placebo,223.4lb,151.6,Complete,Nsukka
+PT0044,SITE02,05/26/77,08/01/2021,f,kanuri,KD,Arm B,84.8 kg,"4'11""",screen fail,Konduga
+PT0083,Site01,22 Nov 1955,2022-03-17,F,Izon,AN,Arm A,85.1 kg,"5'8""",ONGOING,Onitsha North
+PT0124,ST05,04/19/52,28.04.2021,male,Kanuri,LG,arm_b,82.9 kg,180.8,Ongoing,Ughelli North
+PT0123,site02,12 Oct 1994,29.06.2021,Man,IBO,FCT,TREATMENT A,105.2 kg,"5'1""",Ongoing,Konduga
+PT0104,Site04,05/01/1992,15/02/2022,Female,igbo,RIVERS,treatment B,59.9,172.0 CM,Completed,Ika North-East
+PT0095,S03,1964-11-27,2022-03-29,Man,Edo,Enugu State,Arm B,101.5,185.2 cm,Complete,Kano Municipal
+PT0033,ST04,"June 12, 1959",13/02/2022,F,Urhobo,DT,PLB,237.9lb,171.9,SF,Ikeja
+PT0082,Site03,18 Sep 1971,07-15-2021,m,EFIK,Borno,TREATMENT A,82.8 KG,170.8,COMPLETED,Zaria
+PT0007,SITE05,"October 27, 1998",22/01/2022,m,Haoussa,AN,Drug A,53.2 KG,73.7 in,completed,Enugu North
+PT0085,S01,15 Oct 1979,2021-04-09,F,Edo,KADUNA,Control,225.4lb,150.2 cm,withdrawn,Eleme
+pt0096,site04,20 Sep 1951,2021-12-14,Woman,Hausa,EN,treatment B,189.6 lbs,62.2 in,Withdrew,Nsukka
+PT0010,S04,"May 03, 1951",03 May 2021,Female,nupe,ANAMBRA,Treatment A,72.2kg,76.3 in,withdrew,Ibadan North
+PT0011,site05,12-09-1972,11 Jun 2021,M,efik,Abuja FCT,Arm A,107.2 kg,156.0,SF,Ughelli North
+PT0099,site01,23/12/1975,11/11/21,F,TIV,Enugu State,Drug A,51.7,72.0 in,active,Zaria
+PT0064,ST03,11-21-1950,2021-09-04,Male,IJAW,oyo,TREATMENT A,138.5 lbs,74.4 in,Completed,Eleme
+PT0020,site03,27 Mar 1952,23.04.2021,2,bini,Delta,TREATMENT B,121.5 lbs,182.1,COMPLETED,Enugu North
+PT0052,SITE01,1955-11-02,26.03.2021,male,Yoruba,ANAMBRA,Treatment B,97.5 kg,179.3 cm,active,Surulere
+PT0067,S01,24.07.1980,2021-09-28,Male,Fulani,Rivers State,PLB,95.8,66.5 in,COMPLETED,Ogbomosho North
+PT0026,ST04,10/30/69,02-15-2021,female,nupe,Oyo State,Control,103.4,184.3 CM,complete,Ughelli North
+PT0091,SITE04,01-14-1991,20 Jan 2022,male,HAUSA,delta,Drug B,102.6kg,170.5cm,completed,Kaduna North
+PT0097,ST05,20 Dec 1964,17 Jan 2022,woman,EFIK,KN,arm_a,48.5 kg,"5'5""",completed,Obio-Akpor
+PT0001,S04,"April 21, 1966",08.11.2021,m,urhobo,AN,TREATMENT B,134.3 lbs,186.6,ONGOING,Awka South
+PT0092,site02,1953-08-06,16/04/2022,male,Bini,Kaduna,Control,90.1 KG,191.9 CM,SF,Kosofe
+PT0020,site03,27 Mar 1952,23.04.2021,F,bini,Delta,TREATMENT B,121.5 lbs,182.1,COMPLETED,Enugu North
+PT0015,ST03,08/09/1975,18.07.2021,female,nupe,Ibadan,PLB,69.7,"5'11""",completed,Alimosho
+PT0015,ST03,08/09/1975,18.07.2021,Woman,nupe,Ibadan,PLB,69.7,"5'11""",completed,Alimosho
+PT0088,ST03,05.11.1993,02/14/22,FEMALE,tiv,borno,arm_a,88.1,174.5 CM,complete,Ikeja
+PT0070,SITE01,"July 01, 2000",18/04/2022,m,Efik-Ibibio,KANO,placebo,51.7 KG,154.9 CM,ONGOING,Ibadan North
+PT0121,S03,04 Jun 2000,2021-08-27,Female,ijaw,LAGOS,TRT-B,221.6lb,163.8cm,ONGOING,Fagge
+PT0016,SITE05,"October 05, 1969",20.04.2022,woman,Ijaw,oyo,Treatment A,235.9 lbs,193.3,SF,Maiduguri
+PT0039,SITE03,07/28/52,21/03/2021,f,KANURI,AN,Drug B,58.0 kg,170.4,screen fail,Kaduna North
+PT0101,Site02,09-30-1969,21.04.2021,FEMALE,izon,Anambra State,placebo,233.3 lbs,72.6 in,Ongoing,Maiduguri
+PT0115,S05,10-27-1987,09/03/21,woman,bini,Rivers,Placebo,223.4lb,151.6,Complete,Nsukka
+PT0053,site02,02/12/1974,10 Oct 2021,man,URHOBO,Abuja (FCT),Arm B,193.6 lbs,174.4,Screen Fail,Surulere
+PT0071,site01,1979-04-18,13.07.2021,2,tiv,enugu,TRT-A,88.6kg,193.6,Withdrawn,Surulere
+PT0041,Site01,1955-05-10,"October 08, 2021",m,urhobo,BORNO,Drug B,96.8 kg,62.9 in,SF,Awka South
+PT0109,S02,07-15-1983,31 Aug 2021,woman,Fula,Rivers State,Placebo,108.2 KG,192.0 CM,Complete,Surulere
+pt0045,ST05,"March 27, 1951",2021-03-18,Male,Yorùbá,Lagos,treatment A,97.2,"6'2""",Failed Screen,Zaria
+PT0043,site05,"February 02, 1983",05/25/22,male,yoruba,enugu,TREATMENT B,69.3kg,152.7 CM,WD,Obio-Akpor
+PT0027,Site03,12/07/1986,2022-01-20,Female,HAUSA,Anambra,Treatment A,228.2 lbs,182.2cm,WITHDRAWN,Enugu North
+PT0014,Site05,07/03/1976,10/11/21,Woman,Tiv,Enugu State,PLB,156.3lb,64.1 in,Complete,Konduga
+PT0038,ST01,06 Oct 1966,02/05/2021,1,kanuri,Anambra,TRT-A,242.3lb,63.2 in,COMPLETED,Kaduna North
+PT0058,Site05,10/01/84,01-26-2022,Woman,Nupe,enugu,TREATMENT B,58.9,181.2cm,complete,Enugu North
+PT0017,Site03,13.02.1967,19 Mar 2021,FEMALE,Yoruba,Anambra State,Placebo,126.3 lbs,188.4cm,Ongoing,Konduga
+PT0106,SITE03,04/25/85,05-13-2022,FEMALE,igbo,Kano,arm_a,98.5 kg,159.3,completed,Ibadan North
+PT0021,Site04,18 Jun 1994,05 Jan 2022,Woman,Kanuri,anambra,TREATMENT A,92.9,193.9cm,Completed,Zaria
+PT0116,SITE02,1956-12-08,04-15-2021,Female,NUPE,Enugu,TREATMENT B,97.2 kg,173.7,Withdrawn,Obio-Akpor
+PT0062,SITE05,"January 19, 1957",12 Dec 2021,FEMALE,NUPE,Kano,Treatment A,88.3kg,"5'1""",WITHDRAWN,Alimosho
+PT0072,ST05,27/02/1990,31.07.2021,MALE,Hausa,LG,Drug A,101.4 lbs,194.4 cm,WD,Obio-Akpor
+PT0031,Site05,01-11-1957,04 Mar 2022,f,Bini,Rivers State,Drug B,151.0 lbs,158.8 cm,WD,Enugu North
+PT0005,S01,"October 16, 1958",06-27-2021,1,ibo,Kaduna State,TREATMENT B,59.9,158.8cm,Withdrew,Kano Municipal
+PT0061,site05,05-22-1952,24/03/2021,man,Haoussa,KD,Treatment A,164.9 lbs,187.0 cm,ongoing,Awka South
+PT0035,Site05,16 Dec 1976,12.12.2021,man,efik,RIVERS,arm_a,191.4lb,169.7 cm,ScreenFail,Ibadan North
+PT0050,S02,10-02-2000,2022-04-24,Woman,EFIK,EN,TRT-A,58.0 kg,158.4 CM,SF,Eleme
+PT0060,site01,24/05/1963,09/09/2021,Man,tiv,oyo,TREATMENT B,48.5 KG,165.5,withdrawn,Ughelli North
+PT0069,Site03,23/08/1958,"May 01, 2022",Woman,IJAW,Port Harcourt,arm_a,224.7 lbs,67.4 in,Ongoing,Alimosho
+PT0077,Site05,07/28/58,"July 13, 2021",Male,Edo,Oyo,TREATMENT A,63.7 KG,156.5,Withdrew,Enugu North
+PT0034,ST05,11 Apr 1991,11.06.2022,2,YORUBA,Maiduguri,TREATMENT B,62.8 KG,159.9 CM,Withdrawn,Ika North-East
+PT0084,Site02,21.12.1975,04-16-2021,1,efik,lagos,PBO,98.1kg,174.6 CM,WD,Surulere
+PT0089,S04,"May 25, 1955","September 23, 2021",Man,Urhobo,Enugu,Control,80.9 KG,"5'11""",active,Kosofe
+PT0036,Site01,03/10/1963,2021-07-13,MALE,Bini,borno,PLB,89.4 KG,180.4 CM,complete,Ibadan North
+PT0063,Site02,1980-05-31,"October 18, 2021",1,NUPE,Borno State,treatment A,52.4,180.2 cm,complete,Kosofe

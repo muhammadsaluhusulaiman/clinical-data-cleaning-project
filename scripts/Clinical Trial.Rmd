@@ -1,0 +1,182 @@
+---
+title: "PRE WORKSHOP"
+output: html_document
+date: "2026-04-25"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(stringdist)
+library(janitor)
+library(fuzzyjoin)
+library(knitr)
+library(kableExtra)
+library(lme4)
+library(geepack)
+library(JM)
+library(dplyr)
+library(survival)
+library(ggplot2)
+library(mice)
+library(rio)
+library(stringi)
+library(skimr)
+```
+
+```{r}
+patients <- import("patients.csv")
+adverse_events <- import("adverse_events.csv")
+dosing <- import("dosing.csv")
+lab_results <- import("lab_results.csv")
+sites <- import("sites.csv")
+```
+
+# Patients Data Cleaning
+```{r}
+clean_patients <- patients %>% 
+  mutate(ethnicity = ethnicity %>% str_trim() %>% str_to_lower() %>% stri_trans_general("Latin-ASCII"),
+    ethnicity = 
+           case_when(str_to_lower(ethnicity) %in% c("igbo", "ibo") ~ "Igbo",
+                     str_to_lower(ethnicity) == "yoruba" ~ "Yoruba", 
+                     str_to_lower(ethnicity) == "nupe" ~ "Nupe", 
+                     str_to_lower(ethnicity) %in% c("fulani", "fula") ~ "Fulani", 
+                     str_to_lower(ethnicity) == "tiv" ~ "Tiv", 
+                     str_to_lower(ethnicity) %in% c("efik", "efik-ibibio", "ibibio") ~ "Efik-Ibibio", 
+                     str_to_lower(ethnicity) == "edo" ~ "Edo", 
+                     str_to_lower(ethnicity) == "ijaw" ~ "Ijaw", 
+                     str_to_lower(ethnicity) %in% c("hausa", "haoussa") ~ "Hausa", 
+                     str_to_lower(ethnicity) == "urhobo" ~ "Urhobo", 
+                     str_to_lower(ethnicity) == "kanuri" ~ "Kanuri", 
+                     str_to_lower(ethnicity) == "peul" ~ "Peul", 
+                     str_to_lower(ethnicity) == "izon" ~ "Izon", 
+                     str_to_lower(ethnicity) == "bini" ~ "Bini",
+                     TRUE ~ ethnicity)) %>% 
+  mutate(sex = str_to_lower(sex)) %>% 
+  mutate(sex = case_when(sex %in% c("woman", "f", "2", "female") ~ "Female",
+                         sex %in% c("male", "man", "m", "1") ~ "Male",
+                         TRUE ~ sex)) %>% 
+  mutate(state_of_origin = str_to_lower(state_of_origin)) %>% 
+  mutate(state_of_origin = case_when(state_of_origin %in% c("delta state", "delta", "dt") ~ "Delta",
+                                     state_of_origin %in% c("enugu state", "en", "enugu") ~ "Enugu",
+                                     state_of_origin %in% c("anambra state", "anambra", "an") ~ "Anambra",
+                                     state_of_origin %in% c("abuja fct", "abuja", "abuja (fct)", "fct") ~ "Abuja", 
+                                     state_of_origin %in% c("borno state", "borno", "maiduguri") ~ "Borno", 
+                                     state_of_origin %in% c("lagos", "lg", "lagos state") ~ "Lagos", 
+                                     state_of_origin %in% c("kano state", "kn", "kano") ~ "Kano", 
+                                     state_of_origin %in% c("rivers state", "rivers", "port harcourt") ~ "Rivers",
+                                     state_of_origin %in% c("oyo state", "oyo", "ibadan") ~ "Oyo",
+                                     state_of_origin %in% c("kd", "kaduna", "kaduna state") ~ "Kaduna",
+                                     TRUE ~ state_of_origin)) %>% 
+  mutate(treatment_arm = str_to_lower(treatment_arm)) %>% 
+  mutate(treatment_arm = case_when(treatment_arm %in% c("plb", "placebo", "pbo", "control") ~ "Placebo", 
+                                   treatment_arm %in% c("arm b", "drug b", "treatment b", "arm_b", "trt-b") ~ "Treatment B", 
+                                   treatment_arm %in% c("treatment a", "arm a", "arm_a", "drug a", "trt-a") ~ "Treatment A", 
+                                   TRUE ~ treatment_arm)) %>% 
+  mutate(study_status = str_to_lower(study_status)) %>% 
+  mutate(study_status = case_when(study_status %in% c("completed", "complete") ~ "Completed",
+                                  study_status %in% c("withdrew", "withdrawn", "wd") ~ "Withdrawn",
+                                  study_status %in% c("sf", "screenfail", "screen fail", "failed screen") ~ "Screen fail",
+                                  study_status %in% c("active", "in progress", "ongoing") ~ "In progress",
+                                  TRUE ~ study_status)) %>% 
+  mutate(weight = str_trim(str_to_lower(weight))) %>% 
+  mutate(wt_kg = case_when(str_detect(weight, "^\\d+\\.\\d*$") ~ as.numeric(weight),
+                           str_detect(weight, "kg") ~ as.numeric(str_extract(weight, "\\d+\\.\\d*")),
+                           str_detect(weight, "lb") ~ round(as.numeric(str_extract(weight, "\\d+\\.\\d*")) * 0.453592, 1),
+                           TRUE ~ NA)) %>% 
+  mutate(height = str_trim(str_to_lower(height))) %>% 
+  mutate(ht_cm = case_when(str_detect(height, "^\\d+\\.\\d*$") ~ as.numeric(height),
+                           str_detect(height, "cm") ~ as.numeric(str_extract(height, "\\d+\\.\\d*")),
+                           str_detect(height, "in") ~ round(as.numeric(str_extract(height, "\\d+\\.\\d*")) * 2.54, 1),
+                           str_detect(height, "'") ~ round(((round(as.numeric(str_extract(height, "^\\d+")) * 30.48, 1)) + as.numeric(str_extract(height, "(?<=')\\d+")) * 2.54)))) %>% 
+  mutate(bmi = round(wt_kg / (ht_cm * 0.01)^2, 1)) %>% 
+  mutate(site_id = str_to_upper(site_id)) %>% 
+  mutate(site_id = case_when(site_id %in% c("SITE01", "ST01", "S01") ~ "SITE01",
+                             site_id %in% c("S02", "ST02", "SITE02") ~ "SITE02",
+                             site_id %in% c("ST03", "S03", "SITE03") ~ "SITE03",
+                             site_id %in% c("S04", "ST04", "SITE04") ~ "SITE04",
+                             site_id %in% c("S05", "ST05", "SITE05") ~ "SITE05",
+                             TRUE ~ NA_character_)) %>% 
+  mutate(subject_id = str_to_upper(subject_id)) 
+
+clean_patients <- clean_patients %>% 
+  mutate(date_of_birth = case_when(str_detect(date_of_birth, "^\\d+$") ~ as.Date(as.numeric(date_of_birth), origin = "1899-12-30"),
+                                   TRUE ~ as.Date(parse_date_time(date_of_birth, orders = c("Ymd", "dmY", "dmy", "BdY", "Bdy", "bdY", "bmy", "mdY", "mdy"))))) %>% 
+  mutate(date_of_birth = if_else(date_of_birth > Sys.Date(), date_of_birth - years(100), date_of_birth)) %>% 
+  mutate(consent_date = case_when(str_detect(consent_date, "^\\d+$") ~ as.Date(as.numeric(consent_date), origin = "1899-12-30"),
+                                   TRUE ~ as.Date(parse_date_time(consent_date, orders = c("Ymd", "dmY", "dmy", "BdY", "Bdy", "bdY", "bmy", "mdY", "mdy"))))) %>% distinct()
+clean_patients <- clean_patients %>% dplyr::select(subject_id, site_id, date_of_birth, consent_date, sex, state_of_origin, ethnicity, treatment_arm, wt_kg, ht_cm, bmi, lga, study_status)
+
+View(clean_patients)
+```
+
+# Adverse Events Data cleaning
+```{r}
+clean_adverse <- adverse_events %>% mutate(relationship = str_trim(str_to_upper(relationship))) %>% 
+  mutate(relationship1 = case_when(relationship %in% c("YES", "Y", "1", "RELATED", "POSSIBLY RELATED") ~ "Yes",
+                                   relationship %in% c("NOT RELATED", "NO", "0", "UNRELATED", "N") ~ "No",
+                                   TRUE ~ NA_character_)) %>% 
+  mutate(serious = str_to_title(serious)) %>% 
+  mutate(serious1 = case_when(serious %in% c("0", "No", "N", "False") ~ "No",
+                              serious %in% c("Yes", "1", "Y", "True") ~ "Yes",
+                              TRUE ~ NA_character_)) %>% 
+  mutate(action_taken = str_to_title(action_taken)) %>% 
+  mutate(action_taken1 = case_when(action_taken %in% c("None", "N/A") ~ "None",
+                                   action_taken == "Medication Given" ~ "Medication Given",
+                                   action_taken == "Dose Reduced" ~ "Dose Reduced",
+                                   action_taken == "Drug Withdrawn" ~ "Drug Withdrawn")) %>% 
+  mutate(outcome = str_trim(str_to_lower(outcome))) %>% 
+  mutate(outcome1 = case_when(outcome %in% c("nr", "not resolved") ~ "Not Resolved",
+                              outcome %in% c("resolved", "r", "recovered") ~ "Resolved",
+                              outcome %in% c("unk", "unknown", "?") ~ "Unknown",
+                              outcome %in% c("death", "d", "fatal") ~ "Death",
+                              outcome == "ongoing" ~ "Ongoing",
+                              TRUE ~ NA_character_)) %>% 
+  mutate(severity = str_trim(str_to_lower(severity))) %>% 
+  mutate(severity1 = case_when(severity %in% c("grade 4", "4", "g4", "life threatening", "life-threatening") ~ "Grade 4",
+                               severity %in% c("g2", "2", "grade 2", "mild", "moderate") ~ "Grade 2",
+                               severity %in% c("g1", "1", "grade 1") ~ "Grade 1",
+                               severity %in% c("3", "g3", "grade 3", "severe") ~ "Grade 3",
+                               TRUE ~ severity)) %>% 
+  mutate(first_num_onset = as.numeric(str_extract(onset_date, "^\\d{1,2}")),
+         second_num_onset = as.numeric(str_extract(onset_date, "(?<=[/.-])\\d{1,2}(?=[/.-])")),
+         first_num_resolution = as.numeric(str_extract(resolution_date, "^\\d{1,2}")),
+         second_num_resolution = as.numeric(str_extract(resolution_date, "(?<=[/.-])\\d{1,2}(?=[/.-])")),
+         ambiguous_onset = first_num_onset <= 12 & second_num_onset <= 12,
+         ambiguous_resolution = first_num_resolution <= 12 & second_num_resolution <= 12) %>% 
+  mutate(onset_date1 = case_when(ambiguous_onset ~ NA_Date_,
+                                 TRUE ~ as.Date(parse_date_time(onset_date, orders = c("dmY", "dmy", "Ymd", "ymd", "Ydm", "ydm", "dbY", "dBY", "BdY", "mdY", "mdy")))),
+         resolution_date1 = case_when(ambiguous_resolution ~ NA_Date_,
+                                 TRUE ~ as.Date(parse_date_time(resolution_date, orders = c("dmY", "dmy", "Ymd", "ymd", "Ydm", "ydm", "dbY", "dBY", "BdY", "mdY", "mdy"))))) %>% 
+  mutate(ae_id = str_to_upper(ae_id),
+         subject_id = str_to_upper(subject_id)) %>% 
+  mutate(subject_id = str_replace_all(subject_id, "\\s+", "")) %>% 
+  dplyr::select(-c(severity, relationship, outcome, action_taken, serious, first_num_onset, first_num_resolution, second_num_onset, second_num_resolution))
+
+# Ghost ids   
+ghost_subject_id <- clean_adverse %>% dplyr::select(subject_id) %>% filter(as.numeric(str_extract(subject_id, "\\d+")) > 200)
+ghost_ae_id <- clean_adverse %>% dplyr::select(ae_id) %>% filter(as.numeric(str_extract(ae_id, "\\d+")) > 200)
+
+# Ambiguous dates
+ambiguous_onset <- clean_adverse %>% dplyr::select(subject_id, ae_id, onset_date, ambiguous_onset) %>% filter(ambiguous_onset)
+ambiguous_resolution <- clean_adverse %>% dplyr::select(subject_id, ae_id, resolution_date, ambiguous_resolution) %>% filter(ambiguous_resolution)
+```
+
+# Lab Result
+```{r}
+clean_lab_result <- lab_results %>% mutate(visit = str_to_lower(visit)) %>% 
+  mutate(visit1 = case_when(visit %in% c("baseline", "v0", "bl", "visit 0", "day 1") ~ "Baseline",
+                            visit %in% c("day 28", "w4", "week4", "wk4", "day 84", "week 4") ~ "Visit 1",
+                            visit %in% c("visit 2", "day 168") ~ "Visit 2",
+                            visit %in% c("week 12", "week12", "w12", "wk12") ~ "Visit 3",
+                            visit == "visit 4" ~ "Visit 4",
+                            visit %in% c("visit 6", "wk24", "week24", "week 24", "w24") ~ "Visit 6",
+                            visit %in% c("eos", "end of treatment", "final visit", "eot", "end of study") ~ "Final Visit",
+                            TRUE ~ visit))
+```
+
+

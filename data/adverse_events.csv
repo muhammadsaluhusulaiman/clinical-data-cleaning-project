@@ -1,0 +1,216 @@
+ae_id,subject_id,ae_term,onset_date,resolution_date,severity,relationship,outcome,action_taken,serious
+AE00144,PT0090,Arthralgia,"April 21, 2022",05-25-2022,Severe,Yes,NR,medication given,0
+AE00125,PT0031,Hypertension,08/11/21,23/08/2021,MODERATE,Y,resolved,NONE,no
+AE24290,PT 0084,Hypertension,21/08/2021,28 Aug 2021,Grade 4,No,Death,Medication Given,N
+AE00005,PT0035,ALT Increased,09-11-2023,,G2,0,Unknown,dose reduced,N
+AE00155,PT0039,AST Increased,04-12-2021,05-07-2021,Severe,N,?,dose reduced,FALSE
+AE00016,PT0072,Abdominal pain,"July 14, 2023",,2,no,recovered,dose reduced,N
+AE23759,PT 0042,Creatinine Increased,09.12.2021,,Grade 4,Y,fatal,none,0
+AE00086,PT0016,ALT Increased,12/01/22,2022-12-23,Moderate,Not Related,RECOVERED,None,FALSE
+AE00079,PT0108,Fever,"May 24, 2023",01.07.2023,Grade 2,0,Death,N/A,Yes
+AE00083,PT0060,Diarrhoea,12/24/21,08.02.2022,LIFE-THREATENING,0,Resolved,none,FALSE
+AE00088,PT0030,Abdominal pain,2022-02-07,13.02.2022,severe,1,Recovered,Medication Given,No
+AE00154,PT0077,Dizziness,22/10/2022,,MILD,Not Related,RECOVERED,None,yes
+AE25920,PT 0068,Dizziness,14.03.2022,,G1,Y,UNK,Dose Reduced,yes
+AE00127,PT0041,Headache,22.03.2021,23.04.2021,4,related,NR,medication given,FALSE
+AE00091,PT0095,Creatinine Increased,24 Dec 2023,,Grade 3,1,Unknown,Drug Withdrawn,1
+AE00153,PT0021,Hypertension,"November 03, 2021",26/11/2021,MILD,Y,recovered,none,N
+AE24954,Pt0022,Dizziness,07.04.2021,"May 30, 2021",Moderate,yes,unknown,Dose Reduced,yes
+AE00117,PT0107,Dizziness,07.02.2021,11/02/2021,G4,Not Related,FATAL,Drug Withdrawn,0
+AE00042,PT0086,Anaemia,2021-07-06,2021-09-04,1,Unrelated,UNKNOWN,none,Yes
+AE00135,PT0043,AST Increased,2021-09-03,09-28-2021,G2,related,ongoing,N/A,0
+AE00050,PT0051,Insomnia,11/12/2023,,Grade 2,0,RECOVERED,medication given,0
+AE00046,PT0068,Insomnia,26.08.2021,2021-10-17,Moderate,Related,UNK,medication given,0
+AE24793,Pt0030,Injection Site Reaction,03 Jun 2022,,life threatening,Yes,Not Resolved,Drug Withdrawn,0
+AE25630,PT9514,Diarrhoea,12/24/21,08.02.2022,LIFE-THREATENING,0,Resolved,none,FALSE
+AE00043,PT0074,Anaemia,16.09.2023,12/11/2023,Mild,Unrelated,RECOVERED,medication given,No
+AE00111,PT0084,AST Increased,2023-01-02,02/21/23,3,Possibly Related,not resolved,dose reduced,Y
+AE00006,PT0062,Headache,16/11/2021,22.11.2021,grade 1,no,UNKNOWN,Medication Given,0
+AE00065,PT0066,Rash,2023-06-23,"August 10, 2023",Mild,Y,death,Dose Reduced,FALSE
+AE00051,PT0109,Rash,08-23-2021,,mild,no,recovered,NONE,TRUE
+AE00191,PT0082,Fatigue,22.05.2021,03 Jun 2021,moderate,Related,ONGOING,none,Y
+AE00002,PT0054,Leucopenia,2022-02-11,03.04.2022,4,unrelated,NR,None,Yes
+AE00039,PT0124,Insomnia,23.07.2023,2023-08-07,mild,1,Ongoing,N/A,TRUE
+AE00100,PT0044,Abdominal pain,2022-06-23,,MILD,No,recovered,none,Y
+AE00029,PT0118,Bradycardia,02/08/2021,09/14/21,SEVERE,1,UNKNOWN,medication given,FALSE
+AE00105,PT0079,Leucopenia,"May 26, 2022",06/20/22,grade 2,N,UNKNOWN,medication given,Yes
+AE00114,PT0053,Creatinine Increased,11/09/2022,,4,related,Fatal,none,FALSE
+AE00089,PT0027,Abdominal pain,2021-05-04,,4,Possibly Related,fatal,dose reduced,1
+AE00064,PT0003,Diarrhoea,"September 19, 2022",02 Nov 2022,Severe,N,fatal,Drug Withdrawn,0
+AE00014,PT0057,Fatigue,"November 02, 2021","November 17, 2021",G2,Unrelated,Resolved,Dose Reduced,N
+AE00036,PT0097,Hypertension,24.06.2023,2023-08-01,4,1,RECOVERED,none,0
+AE00067,PT0082,Headache,07 Nov 2021,2021-11-12,4,No,ONGOING,Drug Withdrawn,yes
+AE00126,PT0036,Anaemia,"August 22, 2022",10/01/22,Grade 4,1,Resolved,medication given,No
+AE00139,PT0009,Fatigue,02.01.2022,,LIFE-THREATENING,related,not resolved,None,N
+AE00115,PT0093,Arthralgia,11/04/2021,,Mild,no,Ongoing,NONE,FALSE
+AE00171,PT0039,Dizziness,07.04.2021,"May 30, 2021",Moderate,yes,unknown,Dose Reduced,yes
+AE00054,PT0012,Abdominal pain,16 Jul 2021,20.07.2021,grade 1,Not Related,Resolved,dose reduced,1
+AE00198,PT0100,Hypertension,03/02/2022,03-07-2022,MILD,N,R,Dose Reduced,no
+AE26759,Pt0013,Anaemia,"August 22, 2022",10/01/22,Grade 4,1,Resolved,medication given,No
+AE00104,PT0032,Arthralgia,"June 02, 2022",06.07.2022,Grade 4,Y,recovered,Dose Reduced,FALSE
+AE00178,PT0103,Creatinine Increased,09/18/21,,grade 3,yes,RECOVERED,dose reduced,1
+AE00101,PT0125,Fatigue,06-18-2022,06.07.2022,LIFE-THREATENING,related,resolved,dose reduced,1
+AE00021,PT0043,Bradycardia,31.01.2022,23.03.2022,3,Y,unknown,medication given,1
+AE00075,PT0043,Dizziness,09.09.2023,2023-11-03,moderate,no,ONGOING,NONE,No
+AE00012,PT0091,Leucopenia,25.03.2022,05 May 2022,1,related,Resolved,Drug Withdrawn,Yes
+AE25216,Pt0008,Anaemia,08-26-2021,10-08-2021,Grade 4,unrelated,Resolved,dose reduced,Y
+AE00184,PT0087,Arthralgia,18/01/2022,10/03/2022,LIFE-THREATENING,Yes,resolved,medication given,no
+AE00068,PT0069,Fatigue,2023-10-26,12-01-2023,MILD,Unrelated,RECOVERED,Medication Given,Y
+AE00197,PT0005,Creatinine Increased,05 Jan 2023,,Life-threatening,Not Related,unknown,Drug Withdrawn,Yes
+AE00010,PT0007,Creatinine Increased,12/21/23,28 Dec 2023,Moderate,0,RECOVERED,medication given,no
+AE00194,PT0117,Fever,12 Mar 2022,20/03/2022,MODERATE,0,Resolved,Medication Given,Y
+AE00199,PT0038,Nausea,2022-03-15,08/05/2022,Severe,no,Resolved,Medication Given,N
+AE00071,PT0070,Vomiting,06-10-2021,"June 11, 2021",Grade 2,yes,death,medication given,N
+AE00170,PT0091,Bradycardia,23/02/2022,04-22-2022,Grade 4,yes,death,dose reduced,TRUE
+AE00164,PT0065,Dizziness,07/04/2022,30.04.2022,G3,RELATED,Unknown,N/A,1
+AE00092,PT0039,Fever,31 May 2021,06/07/21,grade 1,Possibly Related,ONGOING,NONE,1
+AE00056,PT0093,Leucopenia,17/12/2023,,LIFE-THREATENING,RELATED,unknown,None,No
+AE00181,PT0104,Leucopenia,18/09/2022,09-24-2022,Life-threatening,0,death,Drug Withdrawn,0
+AE00186,PT0075,Dizziness,09 Mar 2021,22 Apr 2021,life threatening,No,R,N/A,TRUE
+AE00024,PT0123,Dizziness,31.05.2021,06-20-2021,Severe,yes,Not Resolved,medication given,N
+AE00032,PT0107,Insomnia,"January 01, 2022",2022-01-12,Life-threatening,Unrelated,not resolved,Dose Reduced,FALSE
+AE00195,PT0087,Vomiting,2022-01-08,,G2,0,?,Dose Reduced,0
+AE00110,PT0041,Leucopenia,13 Aug 2021,26.08.2021,grade 1,Y,unknown,NONE,Yes
+AE00033,PT0107,Malaria-like symptoms,01/02/2022,03/06/22,G3,Possibly Related,UNK,N/A,1
+AE00038,PT0010,Arthralgia,22 Feb 2023,12/04/2023,Grade 4,related,recovered,Dose Reduced,FALSE
+AE00120,PT0009,Nausea,15/11/2022,14.12.2022,life threatening,RELATED,FATAL,N/A,0
+AE00128,PT0114,Arthralgia,10-11-2022,"October 23, 2022",G3,unrelated,Ongoing,medication given,Y
+AE00061,PT0039,Dizziness,22 Aug 2021,10/15/21,G2,Yes,UNK,dose reduced,TRUE
+AE00112,PT0091,ALT Increased,01 Jun 2023,06-28-2023,3,unrelated,Death,none,0
+AE00189,PT0006,Creatinine Increased,05-19-2023,02/06/2023,Grade 4,yes,ongoing,NONE,Y
+AE00048,PT0117,Dizziness,"December 09, 2023",,grade 2,no,RECOVERED,medication given,no
+AE00141,PT0119,Bradycardia,12/31/21,2022-01-13,G4,Possibly Related,ongoing,N/A,N
+AE00176,PT0076,Creatinine Increased,10/31/21,11-27-2021,grade 3,Unrelated,Unknown,Dose Reduced,1
+AE00049,PT0034,Abdominal pain,13 Oct 2023,28 Nov 2023,Moderate,Yes,Death,Drug Withdrawn,FALSE
+AE00179,PT0049,Headache,15 Mar 2022,28/04/2022,G4,Possibly Related,UNKNOWN,dose reduced,1
+AE00096,PT0123,Diarrhoea,2022-08-12,13.09.2022,life threatening,Y,resolved,Dose Reduced,no
+AE00146,PT0019,Dizziness,2022-12-13,,MILD,Possibly Related,Unknown,dose reduced,Yes
+AE00132,PT0124,ALT Increased,24 Jul 2021,17.08.2021,life threatening,UNRELATED,recovered,None,No
+AE00130,PT0088,Bradycardia,2022-12-21,,mild,No,?,Dose Reduced,FALSE
+AE00080,PT0084,Fatigue,12-11-2021,01/07/22,severe,Yes,?,NONE,N
+AE00187,PT0039,Vomiting,19/05/2023,,G1,1,Resolved,None,N
+AE00172,PT0111,Fever,2021-03-19,11.05.2021,Grade 4,no,unknown,N/A,1
+AE00030,PT0073,Malaria-like symptoms,2021-11-24,2021-12-18,G2,RELATED,FATAL,Drug Withdrawn,TRUE
+AE00031,PT0117,Malaria-like symptoms,20.05.2022,2022-06-07,4,yes,death,Medication Given,Yes
+AE00162,PT0073,Injection Site Reaction,"October 27, 2023",11/03/23,Grade 4,1,unknown,dose reduced,yes
+AE00109,PT0087,Diarrhoea,"September 03, 2021",18 Oct 2021,MODERATE,Unrelated,UNK,dose reduced,No
+AE00058,PT0016,Leucopenia,12-26-2022,02-19-2023,G2,No,recovered,Dose Reduced,yes
+AE00102,PT0040,Hypertension,21/08/2021,28 Aug 2021,Grade 4,No,Death,Medication Given,N
+AE00028,PT0105,Nausea,08.03.2023,"March 24, 2023",LIFE-THREATENING,no,not resolved,Drug Withdrawn,yes
+AE00025,PT0110,Arthralgia,15/01/2022,,G1,0,R,none,1
+AE00169,PT0010,Insomnia,08-01-2021,,2,N,D,medication given,N
+AE00166,PT0119,Diarrhoea,2021-11-16,,LIFE-THREATENING,Yes,Resolved,dose reduced,yes
+AE00097,PT0058,Fatigue,2021-02-08,02-14-2021,1,Related,R,Medication Given,FALSE
+AE00133,PT0009,Arthralgia,"September 07, 2022",22/09/2022,Grade 4,RELATED,Death,medication given,No
+AE00057,PT0006,Dizziness,03/06/2022,,MODERATE,Yes,Unknown,Drug Withdrawn,yes
+AE00017,PT0057,Abdominal pain,"November 01, 2022",,Life-threatening,No,NR,medication given,FALSE
+AE00136,PT0060,AST Increased,03 Nov 2023,,LIFE-THREATENING,Yes,FATAL,Medication Given,0
+AE00040,PT0001,Diarrhoea,"June 13, 2021",,G4,related,UNK,dose reduced,N
+AE00059,PT0105,Creatinine Increased,10/26/22,,Mild,0,Death,none,0
+AE00081,PT0040,Diarrhoea,10-03-2021,11/27/21,2,related,D,none,N
+AE00095,PT0062,Fever,01/24/21,,moderate,UNRELATED,FATAL,None,1
+AE00159,PT0065,Insomnia,20 Feb 2021,26.03.2021,3,Unrelated,Unknown,dose reduced,FALSE
+AE00099,PT0119,Malaria-like symptoms,26/12/2022,,SEVERE,RELATED,RECOVERED,Dose Reduced,0
+AE00118,PT0098,Diarrhoea,11/12/22,01-08-2023,life threatening,Related,NR,Drug Withdrawn,No
+AE00094,PT0108,Vomiting,12/22/23,2024-02-07,1,Unrelated,fatal,N/A,TRUE
+AE00157,PT0060,Headache,01 Apr 2023,"May 26, 2023",Grade 2,N,recovered,Medication Given,No
+AE00034,PT0089,Arthralgia,04-30-2023,05/27/23,MODERATE,Y,fatal,Dose Reduced,yes
+AE22396,Pt0047,Headache,20.07.2022,08-30-2022,severe,Y,?,none,TRUE
+AE00143,PT0091,Leucopenia,15 Nov 2022,"November 28, 2022",MILD,related,Ongoing,None,N
+AE00177,PT0064,Insomnia,09-26-2021,,SEVERE,Unrelated,recovered,None,no
+AE00053,PT0111,Bradycardia,16.08.2023,14 Sep 2023,2,No,UNKNOWN,None,TRUE
+AE00158,PT0092,Diarrhoea,15/03/2023,,mild,Y,unknown,Drug Withdrawn,N
+AE00138,PT0049,AST Increased,23 Sep 2021,10-31-2021,2,Possibly Related,UNKNOWN,Dose Reduced,TRUE
+AE00022,PT0103,Anaemia,08/29/23,01/10/2023,severe,RELATED,recovered,Medication Given,0
+AE00142,PT0084,Bradycardia,06-09-2022,,Severe,N,recovered,dose reduced,FALSE
+AE00168,PT0091,Hypertension,27.09.2023,,MODERATE,no,R,Dose Reduced,N
+AE00167,PT0097,Abdominal pain,18 Dec 2021,09 Feb 2022,G3,No,Not Resolved,Medication Given,no
+AE00026,PT0058,Rash,2023-04-20,,Grade 3,Unrelated,FATAL,Drug Withdrawn,N
+AE00013,PT0103,Bradycardia,03 Jun 2022,,Life-threatening,Related,D,Drug Withdrawn,No
+AE20047,PT 0122,Arthralgia,"April 21, 2022",05-25-2022,Severe,Yes,NR,medication given,0
+AE00149,PT0100,Abdominal pain,06/16/23,07-20-2023,Life-threatening,1,?,medication given,Yes
+AE00122,PT0097,AST Increased,"June 04, 2022",2022-07-27,MILD,Not Related,?,Dose Reduced,FALSE
+AE00004,PT0097,Bradycardia,04-14-2021,16.05.2021,Grade 2,no,ONGOING,NONE,Y
+AE00018,PT0118,Fever,04/04/2021,2021-05-21,Severe,No,resolved,none,yes
+AE00074,PT0116,ALT Increased,28 Jan 2022,12.03.2022,Life-threatening,related,UNK,N/A,FALSE
+AE00119,PT0080,AST Increased,03 Oct 2021,27 Nov 2021,grade 1,RELATED,Not Resolved,Dose Reduced,Yes
+AE00151,PT0119,ALT Increased,"April 16, 2023",2023-06-15,grade 3,Related,FATAL,medication given,no
+AE00190,PT0097,Injection Site Reaction,"April 02, 2022",2022-04-19,3,Unrelated,Unknown,Drug Withdrawn,FALSE
+AE00103,PT0014,Anaemia,08-26-2021,10-08-2021,Grade 4,unrelated,Resolved,dose reduced,Y
+AE28072,Pt0001,Creatinine Increased,09.12.2021,,Grade 4,Y,fatal,none,0
+AE21922,Pt0079,Anaemia,05-30-2023,19/07/2023,grade 2,Yes,death,None,0
+AE00180,PT0046,Leucopenia,"April 11, 2023",28/05/2023,SEVERE,yes,ongoing,Medication Given,Yes
+AE00183,PT0062,Rash,07-11-2022,,Grade 4,UNRELATED,UNKNOWN,Dose Reduced,Y
+AE00009,PT0054,Insomnia,03-13-2022,2022-05-08,MILD,0,Unknown,none,yes
+AE00087,PT0123,Fatigue,20.08.2023,25/08/2023,MODERATE,0,Not Resolved,N/A,no
+AE00185,PT0103,Insomnia,08/10/22,07 Oct 2022,severe,N,R,medication given,0
+AE00020,PT0066,Injection Site Reaction,2021-02-09,2021-02-13,MODERATE,N,RECOVERED,Drug Withdrawn,TRUE
+AE00174,PT0002,Anaemia,05-30-2023,19/07/2023,grade 2,Yes,death,None,0
+AE00082,PT0050,Abdominal pain,"December 01, 2023",,G4,related,D,dose reduced,1
+AE00152,PT0115,Hypertension,03/01/2022,01/04/22,severe,related,Recovered,Dose Reduced,1
+AE00072,PT0036,AST Increased,07.03.2022,,grade 3,RELATED,D,Dose Reduced,No
+AE00160,PT0027,Anaemia,08.07.2023,,life threatening,unrelated,not resolved,dose reduced,Y
+AE22105,PT9514,Headache,15 Mar 2022,28/04/2022,G4,Possibly Related,UNKNOWN,dose reduced,1
+AE00001,PT0104,Creatinine Increased,09.12.2021,,Grade 4,Y,fatal,none,0
+AE00076,PT0109,Injection Site Reaction,13/07/2023,07/28/23,severe,UNRELATED,not resolved,Medication Given,Y
+AE00073,PT0081,Headache,19.05.2021,,Moderate,UNRELATED,?,Drug Withdrawn,N
+AE22406,Pt0020,Fatigue,07/12/2023,31 Jan 2024,2,no,Fatal,none,Yes
+AE00008,PT0031,Hypertension,2021-05-13,20 Jun 2021,Grade 2,N,UNKNOWN,none,yes
+AE00192,PT0125,Bradycardia,2023-08-21,2023-09-29,1,no,ongoing,medication given,no
+AE00116,PT0111,Dizziness,01 Aug 2023,03.08.2023,grade 3,Related,ONGOING,medication given,Y
+AE00108,PT0115,Diarrhoea,04/10/2022,"November 04, 2022",grade 1,UNRELATED,not resolved,N/A,Yes
+AE00069,PT0016,Creatinine Increased,2021-11-11,25/12/2021,grade 2,UNRELATED,fatal,Medication Given,TRUE
+AE00140,PT0009,Hypertension,19.04.2023,06-17-2023,G4,UNRELATED,Fatal,None,Y
+AE00063,PT0063,Abdominal pain,19/10/2023,2023-10-30,Grade 4,RELATED,R,Medication Given,No
+AE00090,PT0065,Leucopenia,01-08-2021,,3,Unrelated,Death,none,1
+AE00148,PT0091,Vomiting,"January 06, 2021",,grade 2,Related,recovered,Dose Reduced,0
+AE00084,PT0091,ALT Increased,08.12.2023,2024-01-18,SEVERE,related,?,Medication Given,FALSE
+AE00182,PT0054,Insomnia,31.05.2023,"July 30, 2023",Grade 4,UNRELATED,Recovered,Drug Withdrawn,TRUE
+AE00196,PT0005,ALT Increased,12/07/2022,,G4,Related,Ongoing,None,Y
+AE00129,PT0087,Anaemia,01-24-2023,03-19-2023,Moderate,Y,Unknown,dose reduced,Yes
+AE22537,PT9516,Hypertension,03/01/2022,01/04/22,severe,related,Recovered,Dose Reduced,1
+AE00175,PT0014,Dizziness,28/05/2021,21.07.2021,1,N,Fatal,Dose Reduced,0
+AE00107,PT0039,Hypertension,16.04.2021,,severe,Y,resolved,Medication Given,TRUE
+AE00113,PT0086,Creatinine Increased,17.08.2023,10 Sep 2023,Severe,related,ongoing,NONE,1
+AE00131,PT0088,Fever,2023-08-29,27 Oct 2023,MODERATE,UNRELATED,resolved,none,0
+AE00023,PT0074,Bradycardia,"March 10, 2022",2022-03-17,Life-threatening,Not Related,R,Medication Given,Y
+AE00124,PT0005,Abdominal pain,"February 02, 2022",,2,RELATED,RECOVERED,None,Y
+AE00123,PT0086,Abdominal pain,05-08-2021,2021-06-02,MILD,RELATED,Not Resolved,none,TRUE
+AE00037,PT0005,Abdominal pain,06/06/2022,2022-06-23,moderate,unrelated,Fatal,Drug Withdrawn,TRUE
+AE00041,PT0118,Rash,26.11.2022,01.12.2022,Severe,related,R,Drug Withdrawn,Y
+AE00156,PT0091,Fatigue,07/12/2023,31 Jan 2024,2,no,Fatal,none,Yes
+AE00145,PT0005,Rash,02/02/23,,life threatening,1,UNK,NONE,FALSE
+AE00193,PT0069,Abdominal pain,09.01.2023,"March 10, 2023",2,No,RECOVERED,NONE,N
+AE00098,PT0032,Rash,29.06.2023,28.08.2023,G1,RELATED,D,medication given,1
+AE00052,PT0016,Diarrhoea,21 Feb 2023,20 Mar 2023,Severe,yes,ongoing,NONE,Y
+AE00003,PT0117,Insomnia,04/01/2023,,LIFE-THREATENING,Possibly Related,Death,Medication Given,0
+AE00165,PT0020,AST Increased,2022-10-25,11/08/22,SEVERE,no,Fatal,N/A,no
+AE00078,PT0038,Dizziness,14.03.2022,,G1,Y,UNK,Dose Reduced,yes
+AE00044,PT0061,Malaria-like symptoms,12/17/23,,MODERATE,no,RECOVERED,dose reduced,1
+AE00011,PT0019,Bradycardia,23/08/2023,,LIFE-THREATENING,Related,not resolved,medication given,yes
+AE00173,PT0039,ALT Increased,2023-11-25,29.11.2023,G2,yes,resolved,Drug Withdrawn,FALSE
+AE00161,PT0002,Fever,2021-02-20,2021-04-05,SEVERE,Related,ONGOING,None,0
+AE00047,PT0113,Headache,20.07.2022,08-30-2022,severe,Y,?,none,TRUE
+AE00062,PT0036,Insomnia,18.11.2022,24.11.2022,G2,unrelated,NR,none,No
+AE00007,PT0060,Arthralgia,"March 12, 2023",07/04/2023,Grade 3,No,UNK,N/A,FALSE
+AE00134,PT0079,Injection Site Reaction,03/08/22,04-16-2022,Grade 1,related,Resolved,Dose Reduced,N
+AE00200,PT0071,Bradycardia,02 Jun 2021,2021-07-08,Moderate,1,Death,dose reduced,N
+AE00150,PT0071,Bradycardia,05/06/2021,05.07.2021,G3,related,Fatal,medication given,No
+AE00035,PT0037,Diarrhoea,03.11.2021,18 Dec 2021,Grade 2,unrelated,Death,Medication Given,Y
+AE00019,PT0047,Injection Site Reaction,03 Jun 2022,,life threatening,Yes,Not Resolved,Drug Withdrawn,0
+AE00121,PT0111,Creatinine Increased,2021-11-01,19 Dec 2021,SEVERE,unrelated,Resolved,Dose Reduced,Y
+AE00015,PT0010,Dizziness,2022-06-07,,Grade 2,1,UNK,Drug Withdrawn,FALSE
+AE00085,PT0057,Fatigue,30.01.2021,02-07-2021,Mild,Possibly Related,Fatal,None,TRUE
+AE00060,PT0007,AST Increased,03/03/23,,Grade 2,Y,Unknown,Medication Given,1
+AE00163,PT0040,Rash,20 Feb 2023,"February 28, 2023",Life-threatening,related,Unknown,none,N
+AE00070,PT0070,Fever,05.06.2022,,Grade 1,Y,UNK,Drug Withdrawn,FALSE
+AE00147,PT0109,Headache,04-23-2023,05/08/23,life threatening,Not Related,Resolved,None,TRUE
+AE00188,PT0016,Abdominal pain,"March 08, 2023",23 Apr 2023,mild,Y,UNK,dose reduced,TRUE
+AE00137,PT0088,Diarrhoea,06/04/21,2021-07-14,Grade 3,Y,NR,medication given,N
+AE00027,PT0091,Headache,23 Nov 2023,13 Jan 2024,1,yes,?,medication given,Yes
+AE00077,PT0027,Vomiting,25 Mar 2022,06.05.2022,2,unrelated,not resolved,Drug Withdrawn,Yes
+AE00055,PT0081,Headache,05-22-2023,,MODERATE,Not Related,UNKNOWN,N/A,N
+AE00093,PT0070,Insomnia,2023-06-05,14.06.2023,mild,Yes,Recovered,medication given,N
+AE00045,PT0107,Injection Site Reaction,07/08/23,07-10-2023,G4,yes,not resolved,none,No
+AE00066,PT0026,Fever,"April 23, 2022",05/25/22,moderate,Possibly Related,RECOVERED,dose reduced,Yes
+AE00106,PT0107,Nausea,08-20-2022,,mild,Y,Unknown,Dose Reduced,N

@@ -1,0 +1,411 @@
+lab_id,subject_id,visit,sample_date,test_name,result,unit,normal_range,flag,lab_tech
+LB000380,PT0016,Visit 6,"August 04, 2023",ALT,360.56IU/L,IU/L,7-56 U/L,Abnormal High,B Adeyemi
+LB000006,PT0120,Day 28,14.11.2022,ALT,304.99 (IU/L),IU/L,7-56 U/L,HIGH,B. Adeyemi
+LB000395,PT0100,WEEK12,22 Jan 2021,Glucose,290.06,mg/dl,70-99 mg/dL,Above Normal,A Okafor
+LB000011,PT0037,W4,09/04/22,Malaria RDT,>0.29,titre,0-0 titre,H,C Usman
+LB069032,PT9600,WK4,"August 29, 2023",Platelets,>551.43,x10^9/L,150-400 10^9/L,Abnormal High,a.okafor
+LB000161,PT0108,Visit 2,28.09.2021,ALT,278.78IU/L,IU/L,7-56 U/L,HIGH,B Adeyemi
+LB000285,PT0060,Week 12,28.06.2021,Platelets,592.59G/L,G/L,150-400 10^9/L,High,b.adeyemi
+LB000199,PT0075,EOT,05/03/2021,Haemoglobin,6.83,grams/dL,11.5-17.5 g/dL,<LLN,C. Usman
+LB000064,PT0033,W12,13/11/2023,AST,>212.91,u/l,10-40 U/L,high,A. Okafor
+LB000393,PT0124,WK12,"October 11, 2021",Creatinine,7.66,MG/DL,0.6-1.3 mg/dL,H,AOKAFOR
+LB000345,PT0016,BASELINE,2022-02-17,Platelets,497.61G/L,G/L,150-400 10^9/L,Above Normal,B Adeyemi
+LB000350,PT0062,WEEK12,23 Jul 2022,Haemoglobin,6.23,g/dL,11.5-17.5 g/dL,Abnormal Low,B Adeyemi
+LB000240,PT0110,Final Visit,26 Aug 2022,Haemoglobin,>19.5,grams/dL,11.5-17.5 g/dL,>ULN,B Adeyemi
+LB000130,PT0053,EOT,"March 08, 2023",WBC,20.08,Giga/L,3.5-11.0 10^9/L,Abnormal High,C Usman
+LB000224,PT0119,week 4,20.12.2022,Total Bilirubin,7.49 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,high,B Adeyemi
+LB000372,PT0029,End of Study,"June 22, 2021",Platelets,246.6Giga/L,Giga/L,150-400 10^9/L,Within Normal Limits,CUSMAN
+LB000321,PT0103,week 12,25/11/2023,ALT,220.36,u/L,7-56 U/L,Abnormal High,c.usman
+LB000262,PT0055,Week 24,03.06.2022,WBC,>19.19,x10^9/L,3.5-11.0 10^9/L,>ULN,AOKAFOR
+LB000333,PT0030,EOS,"May 13, 2021",Total Bilirubin,0.83 (mg per dL),mg per dL,0.1-1.2 mg/dL,normal,a.okafor
+LB000263,PT0002,End of Study,"December 17, 2022",WBC,7.35 10^9/L,10^9/L,3.5-11.0 10^9/L,N,B Adeyemi
+LB000272,PT0110,Final Visit,18/01/2021,ALT,410.48 (u/L),u/L,7-56 U/L,H,c.usman
+LB000309,PT0092,baseline,12/30/22,Malaria RDT,>0.58,TITRE,0-0 titre,>ULN,CUSMAN
+LB000358,PT0043,Final Visit,06 Sep 2022,Malaria RDT,>3.99,titer,0-0 titre,H,C. Usman
+LB000208,PT0097,Visit 6,"March 06, 2021",Platelets,<136.39,G/L,150-400 10^9/L,Low,b.adeyemi
+LB000242,PT0050,End of Study,"July 01, 2021",WBC,12.54,G/L,3.5-11.0 10^9/L,>ULN,b.adeyemi
+LB000107,PT0114,Visit 6,07-14-2023,AST,65.59Units/L,Units/L,10-40 U/L,Abnormal High,CUSMAN
+LB000318,PT0049,WK24,14 Dec 2021,Glucose,378.4,mg per dL,70-99 mg/dL,Abnormal High,a.okafor
+LB000270,PT0021,W12,2022-09-29,ALT,423.25 U/L,U/L,7-56 U/L,H,C. Usman
+LB000157,PT0083,WEEK24,27.05.2022,Malaria RDT,0.04 (titre),titre,0-0 titre,H,B Adeyemi
+LB000287,PT0038,EOT,"May 19, 2022",Malaria RDT,1.31 (Titre),Titre,0-0 titre,High,CUSMAN
+LB000343,PT0019,End of Study,2021-12-15,Glucose,>391.35,mg per dL,70-99 mg/dL,>ULN,A Okafor
+LB000172,PT0049,WK4,"August 29, 2023",Platelets,>551.43,x10^9/L,150-400 10^9/L,Abnormal High,a.okafor
+LB000244,PT0122,Visit 4,06-07-2022,Malaria RDT,0.33titre,titre,0-0 titre,>ULN,B. Adeyemi
+LB000090,PT0012,BASELINE,2021-10-01,Haemoglobin,19.47G/DL,G/DL,11.5-17.5 g/dL,HIGH,a.okafor
+LB000163,PT0069,W12,08/11/2021,Malaria RDT,>2.8,Titre,0-0 titre,>ULN,C. Usman
+LB000219,PT0053,Day 168,12 Feb 2021,ALT,276.63 IU/L,IU/L,7-56 U/L,>ULN,b.adeyemi
+LB000088,PT0046,Week 12,04/07/2021,Creatinine,9.38 (MG/DL),MG/DL,0.6-1.3 mg/dL,>ULN,A Okafor
+LB000386,PT0097,WK4,08/07/21,Creatinine,5.34 mg/dl,mg/dl,0.6-1.3 mg/dL,High,c.usman
+LB000013,PT0110,End of Study,06/22/22,Malaria RDT,2.23 titer,titer,0-0 titre,HIGH,A. Okafor
+LB000225,PT0034,EOT,31 Jul 2023,Haemoglobin,19.84 g/dL,g/dL,11.5-17.5 g/dL,Abnormal High,A. Okafor
+LB000210,PT0015,EOT,2022-01-21,AST,27.58U/L,U/L,10-40 U/L,Normal,C Usman
+LB000241,PT0103,week 4,2022-07-04,Glucose,202.08 (milligrams/dL),milligrams/dL,70-99 mg/dL,HIGH,B Adeyemi
+LB000261,PT0117,W24,31.08.2022,Glucose,335.23 mg/dl,mg/dl,70-99 mg/dL,Above Normal,A Okafor
+LB000216,PT0006,WEEK12,"January 27, 2022",Creatinine,1.85 mg per dL,mg per dL,0.6-1.3 mg/dL,high,C Usman
+LB000118,PT0041,EOS,2022-05-29,Glucose,126.89,MG/DL,70-99 mg/dL,H,c.usman
+LB000389,PT0031,Week 4,"April 12, 2021",Creatinine,>6.75,mg/dl,0.6-1.3 mg/dL,>ULN,C. Usman
+LB000075,PT0095,EOT,06/04/2023,Platelets,192.04 (Giga/L),Giga/L,150-400 10^9/L,Normal,c.usman
+LB000260,PT0098,Week 24,10-03-2021,Creatinine,6.8 mg per dL,mg per dL,0.6-1.3 mg/dL,>ULN,CUSMAN
+LB000392,PT0083,W12,09/05/22,Total Bilirubin,2.93milligrams/dL,milligrams/dL,0.1-1.2 mg/dL,>ULN,A. Okafor
+LB000004,PT0010,Day 168,"August 31, 2022",Glucose,210.73 (MG/DL),MG/DL,70-99 mg/dL,Above Normal,CUSMAN
+LB000182,PT0049,WEEK12,08.08.2022,Glucose,186.56mg/dl,mg/dl,70-99 mg/dL,Abnormal High,CUSMAN
+LB000040,PT0092,baseline,01-06-2022,Malaria RDT,3.32titre,titre,0-0 titre,High,c.usman
+LB000294,PT0058,Day 84,19 Aug 2022,Malaria RDT,1.67,titre,0-0 titre,H,A Okafor
+LB000271,PT0088,WK4,2021-11-22,ALT,456.63 U/L,U/L,7-56 U/L,Above Normal,C. Usman
+LB000243,PT0076,week 12,04.08.2022,Platelets,405.97x10^9/L,x10^9/L,150-400 10^9/L,Above Normal,AOKAFOR
+LB000025,PT0027,week 4,"June 16, 2022",ALT,234.1,u/L,7-56 U/L,>ULN,B. Adeyemi
+LB000017,PT0093,Final Visit,07/05/2023,ALT,>283.42,u/l,7-56 U/L,High,A. Okafor
+LB000160,PT0082,BL,01/21/22,Creatinine,1.14,mg/dl,0.6-1.3 mg/dL,Within Normal Limits,b.adeyemi
+LB000250,PT0124,WEEK4,09/12/22,Creatinine,5.21,mg/dl,0.6-1.3 mg/dL,H,B Adeyemi
+LB000363,PT0092,WEEK4,05/01/2021,AST,>72.04,IU/L,10-40 U/L,H,AOKAFOR
+LB000346,PT0110,Day 28,12/28/21,Haemoglobin,8.87 (g per dL),g per dL,11.5-17.5 g/dL,low,A Okafor
+LB000084,PT0115,W4,09 Mar 2022,Haemoglobin,13.09g/dL,g/dL,11.5-17.5 g/dL,N,CUSMAN
+LB000322,PT0075,Day 1,02.02.2022,Creatinine,7.22,mg/dl,0.6-1.3 mg/dL,Above Normal,C. Usman
+LB000296,PT0080,WEEK12,2021-03-22,AST,248.04 u/L,u/L,10-40 U/L,HIGH,CUSMAN
+LB000394,PT0025,BL,07-06-2022,Glucose,265.84,mg/dl,70-99 mg/dL,>ULN,b.adeyemi
+LB000255,PT0021,Week 12,29/10/2022,WBC,16.8x10^9/L,x10^9/L,3.5-11.0 10^9/L,HIGH,C. Usman
+LB000228,PT0017,WEEK4,"July 02, 2023",AST,69.22u/L,u/L,10-40 U/L,H,a.okafor
+LB000019,PT0093,EOS,21/12/2022,Haemoglobin,17.01 (g/dL),g/dL,11.5-17.5 g/dL,WNL,C. Usman
+LB000055,PT0086,week 24,04-22-2022,Glucose,138.0 mg/dL,mg/dL,70-99 mg/dL,high,A Okafor
+LB000233,PT0063,BL,21.01.2023,AST,66.37IU/l,IU/l,10-40 U/L,Above Normal,B Adeyemi
+LB000234,PT0019,Week 4,05/18/23,Platelets,483.57,10^9/L,150-400 10^9/L,High,CUSMAN
+LB000232,PT0075,BL,09 Nov 2021,WBC,<0.5,G/L,3.5-11.0 10^9/L,L,B Adeyemi
+LB000166,PT0058,end of study,03-17-2023,Glucose,>124.76,mg per dL,70-99 mg/dL,Abnormal High,A. Okafor
+LB000030,PT0027,week 24,04/17/22,WBC,21.59Giga/L,Giga/L,3.5-11.0 10^9/L,high,a.okafor
+LB000057,PT0062,Week 12,06-10-2023,ALT,245.47 (Units/L),Units/L,7-56 U/L,HIGH,a.okafor
+LB000385,PT0031,Visit 4,20.05.2021,Creatinine,6.08 (milligrams/dL),milligrams/dL,0.6-1.3 mg/dL,HIGH,C. Usman
+LB000050,PT0005,Week 12,"April 29, 2022",Glucose,210.85 milligrams/dL,milligrams/dL,70-99 mg/dL,High,A Okafor
+LB000077,PT0014,BASELINE,07-01-2023,Creatinine,2.55mg/dl,mg/dl,0.6-1.3 mg/dL,H,C. Usman
+LB000143,PT0049,Final Visit,03.10.2021,Total Bilirubin,5.6 mg per dL,mg per dL,0.1-1.2 mg/dL,Abnormal High,B Adeyemi
+LB000095,PT0001,Week 4,17/01/2023,Haemoglobin,15.32,grams/dL,11.5-17.5 g/dL,Normal,C Usman
+LB000184,PT0120,Week 24,14 Oct 2023,Total Bilirubin,8.61milligrams/dL,milligrams/dL,0.1-1.2 mg/dL,H,A Okafor
+LB000104,PT0073,WEEK4,02-19-2022,Haemoglobin,17.23 (G/DL),G/DL,11.5-17.5 g/dL,NEG,B. Adeyemi
+LB061764,PT9615,week 12,2023-03-12,Platelets,410.53 10^9/L,10^9/L,150-400 10^9/L,Abnormal High,a.okafor
+LB000046,PT0054,End of Study,10/11/22,Creatinine,5.86 (mg/dL),mg/dL,0.6-1.3 mg/dL,HIGH,c.usman
+LB000174,PT0075,End of Treatment,2021-10-07,Haemoglobin,18.99 G/DL,G/DL,11.5-17.5 g/dL,high,AOKAFOR
+LB000002,PT0007,V0,2021-06-25,ALT,62.27,IU/L,7-56 U/L,High,C Usman
+LB000357,PT0035,Visit 6,16.03.2022,ALT,22.15 IU/L,IU/L,7-56 U/L,Within Normal Limits,A Okafor
+LB000106,PT0120,Final Visit,"August 06, 2021",Glucose,>148.22,mg per dL,70-99 mg/dL,>ULN,c.usman
+LB000264,PT0014,Week 24,18.07.2021,Haemoglobin,6.89 grams/dL,grams/dL,11.5-17.5 g/dL,Below Normal,B Adeyemi
+LB000265,PT0032,Week 4,05/02/2023,AST,293.3,U/L,10-40 U/L,H,B. Adeyemi
+LB000362,PT0063,Week 4,2021-09-11,Malaria RDT,>2.49,titre,0-0 titre,>ULN,B. Adeyemi
+LB000292,PT0010,Final Visit,05/30/21,Glucose,147.62milligrams/dL,milligrams/dL,70-99 mg/dL,HIGH,c.usman
+LB000334,PT0018,End of Study,2022-05-15,Haemoglobin,11.93grams/dL,grams/dL,11.5-17.5 g/dL,normal,a.okafor
+LB000103,PT0052,Day 168,"August 30, 2021",Total Bilirubin,5.49 (MG/DL),MG/DL,0.1-1.2 mg/dL,H,A Okafor
+LB000274,PT0064,W4,20 Jun 2022,Creatinine,6.48mg/dL,mg/dL,0.6-1.3 mg/dL,Above Normal,A Okafor
+LB000331,PT0004,WK12,28.10.2022,Haemoglobin,16.16g/dL,g/dL,11.5-17.5 g/dL,normal,C. Usman
+LB000382,PT0083,end of study,16.06.2023,Total Bilirubin,0.7,mg/dL,0.1-1.2 mg/dL,Normal,C. Usman
+LB000212,PT0051,WK4,2022-10-19,Total Bilirubin,1.23,mg per dL,0.1-1.2 mg/dL,High,c.usman
+LB000222,PT0063,baseline,2023-06-30,Malaria RDT,1.29 (Titer),Titer,0-0 titre,High,b.adeyemi
+LB000035,PT0067,Week 24,"September 26, 2021",Haemoglobin,18.02 (g/dl),g/dl,11.5-17.5 g/dL,high,A. Okafor
+LB000303,PT0090,End of Treatment,2022-06-02,Total Bilirubin,>3.66,mg/dl,0.1-1.2 mg/dL,HIGH,a.okafor
+LB000031,PT0054,Day 1,2021-03-15,Malaria RDT,1.34TITRE,TITRE,0-0 titre,high,A Okafor
+LB000037,PT0007,End of Study,26.01.2021,Total Bilirubin,8.5 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,>ULN,C Usman
+LB000267,PT0110,week 12,12.05.2021,WBC,11.29Giga/L,Giga/L,3.5-11.0 10^9/L,Abnormal High,c.usman
+LB000067,PT0100,end of study,"July 11, 2022",WBC,>19.16,x10^9/L,3.5-11.0 10^9/L,Above Normal,A Okafor
+LB000266,PT0005,WEEK24,"July 28, 2021",AST,>324.35,IU/l,10-40 U/L,Above Normal,A. Okafor
+LB000359,PT0067,week 12,07.12.2021,ALT,68.02 (u/L),u/L,7-56 U/L,Above Normal,AOKAFOR
+LB000239,PT0103,Day 84,2022-08-17,ALT,247.0 (IU/l),IU/l,7-56 U/L,H,B Adeyemi
+LB000320,PT0124,Day 168,2022-02-18,WBC,0.9910^9/L,10^9/L,3.5-11.0 10^9/L,Abnormal Low,C Usman
+LB000152,PT0099,Day 28,19/04/2021,Creatinine,7.78 mg per dL,mg per dL,0.6-1.3 mg/dL,Above Normal,CUSMAN
+LB000258,PT0037,baseline,24/10/2021,AST,156.46IU/L,IU/L,10-40 U/L,HIGH,A. Okafor
+LB000126,PT0010,Day 28,12 May 2022,Glucose,394.1mg/dL,mg/dL,70-99 mg/dL,high,a.okafor
+LB000052,PT0041,Day 168,06/17/23,Glucose,101.95milligrams/dL,milligrams/dL,70-99 mg/dL,high,B Adeyemi
+LB000121,PT0071,Final Visit,14.09.2021,Platelets,86.34,Giga/L,150-400 10^9/L,LOW,CUSMAN
+LB000317,PT0087,baseline,30/06/2023,Platelets,420.56x10^9/L,x10^9/L,150-400 10^9/L,Abnormal High,B Adeyemi
+LB000257,PT0052,Final Visit,08/19/22,Platelets,190.36 x10^9/L,x10^9/L,150-400 10^9/L,N,B Adeyemi
+LB063415,PT9603,Visit 0,"March 21, 2021",ALT,499.05 (U/L),U/L,7-56 U/L,High,A. Okafor
+LB000097,PT0092,W24,2022-04-20,Platelets,255.2 (10^9/l),10^9/l,150-400 10^9/L,Within Normal Limits,A. Okafor
+LB000109,PT0071,week 12,"August 24, 2021",Glucose,282.08 MG/DL,MG/DL,70-99 mg/dL,High,B. Adeyemi
+LB000204,PT0016,Day 84,23/02/2023,WBC,18.58 10^9/L,10^9/L,3.5-11.0 10^9/L,high,c.usman
+LB000164,PT0072,Day 1,18/04/2021,AST,100.64Units/L,Units/L,10-40 U/L,Abnormal High,A Okafor
+LB000290,PT0017,End of Study,05 Jun 2021,Glucose,67.0 (mg/dL),mg/dL,70-99 mg/dL,low,B Adeyemi
+LB000179,PT0115,End of Treatment,08-06-2021,Malaria RDT,3.9,titre,0-0 titre,Above Normal,B. Adeyemi
+LB000273,PT0010,EOS,04-24-2023,ALT,493.46IU/l,IU/l,7-56 U/L,HIGH,AOKAFOR
+LB000020,PT0034,Final Visit,23/06/2023,AST,319.88 Units/L,Units/L,10-40 U/L,Above Normal,CUSMAN
+LB000253,PT0043,End of Treatment,19 Mar 2021,Platelets,>515.43,Giga/L,150-400 10^9/L,>ULN,B. Adeyemi
+LB000198,PT0021,W24,12 Mar 2023,Total Bilirubin,1.26 mg per dL,mg per dL,0.1-1.2 mg/dL,high,B Adeyemi
+LB000283,PT0100,Visit 0,16/03/2022,AST,308.08IU/l,IU/l,10-40 U/L,high,c.usman
+LB000246,PT0039,week 12,06.09.2022,Malaria RDT,1.82,titre,0-0 titre,Above Normal,AOKAFOR
+LB000078,PT0104,WEEK24,09-04-2021,WBC,12.65 10^9/l,10^9/l,3.5-11.0 10^9/L,HIGH,AOKAFOR
+LB000132,PT0010,end of study,27/04/2022,Creatinine,>7.59,mg/dl,0.6-1.3 mg/dL,HIGH,AOKAFOR
+LB000115,PT0072,week 24,13 Mar 2022,ALT,366.97 (U/L),U/L,7-56 U/L,Above Normal,B. Adeyemi
+LB000061,PT0043,week 4,2022-02-24,WBC,10.67,10^9/L,3.5-11.0 10^9/L,N,B Adeyemi
+LB000226,PT0055,WEEK24,07-20-2023,Haemoglobin,16.4g per dL,g per dL,11.5-17.5 g/dL,Within Normal Limits,C Usman
+LB000248,PT0039,Day 1,08/16/21,WBC,4.6,10^9/l,3.5-11.0 10^9/L,normal,C Usman
+LB000310,PT0054,End of Study,12-13-2023,ALT,215.73 u/L,u/L,7-56 U/L,>ULN,A. Okafor
+LB000168,PT0076,Visit 6,"July 25, 2023",Glucose,70.67milligrams/dL,milligrams/dL,70-99 mg/dL,NEG,a.okafor
+LB000284,PT0111,week 24,05/26/23,WBC,16.39 (Giga/L),Giga/L,3.5-11.0 10^9/L,High,A. Okafor
+LB000300,PT0097,End of Study,15.08.2021,Glucose,346.31 milligrams/dL,milligrams/dL,70-99 mg/dL,H,c.usman
+LB000188,PT0047,Visit 2,22 Sep 2021,Total Bilirubin,1.69MG/DL,MG/DL,0.1-1.2 mg/dL,Abnormal High,c.usman
+LB000079,PT0073,week 24,29.06.2023,Creatinine,>5.24,milligrams/dL,0.6-1.3 mg/dL,H,B. Adeyemi
+LB000144,PT0018,week 4,31 Oct 2022,ALT,333.99U/L,U/L,7-56 U/L,HIGH,B Adeyemi
+LB000252,PT0011,Day 1,07/31/23,ALT,449.83 (IU/l),IU/l,7-56 U/L,H,a.okafor
+LB000027,PT0125,Day 84,01-20-2021,Malaria RDT,>3.92,titer,0-0 titre,Abnormal High,B. Adeyemi
+LB000069,PT0105,W24,28/09/2022,Platelets,341.94 (x10^9/L),x10^9/L,150-400 10^9/L,NEG,A. Okafor
+LB000054,PT0001,week 12,2023-01-11,Haemoglobin,6.2,g/dL,11.5-17.5 g/dL,Low,CUSMAN
+LB000022,PT0043,WEEK12,13/11/2021,WBC,8.9,G/L,3.5-11.0 10^9/L,Normal,B. Adeyemi
+LB000023,PT0082,Day 28,25/08/2023,AST,393.93 (u/L),u/L,10-40 U/L,Abnormal High,CUSMAN
+LB000087,PT0080,Baseline,11/28/22,Platelets,512.4 10^9/L,10^9/L,150-400 10^9/L,>ULN,b.adeyemi
+LB000341,PT0060,end of study,15 Jun 2023,Total Bilirubin,6.14 mg/dL,mg/dL,0.1-1.2 mg/dL,Above Normal,b.adeyemi
+LB000355,PT0114,week 12,19 Jun 2021,AST,44.17 Units/L,Units/L,10-40 U/L,H,C. Usman
+LB000388,PT0108,WEEK24,16 Jan 2021,Glucose,224.75 mg per dL,mg per dL,70-99 mg/dL,HIGH,b.adeyemi
+LB000098,PT0006,end of study,26 Apr 2021,Malaria RDT,2.87Titer,Titer,0-0 titre,Above Normal,c.usman
+LB000367,PT0100,end of study,"June 17, 2021",Creatinine,0.74 (MG/DL),MG/DL,0.6-1.3 mg/dL,normal,b.adeyemi
+LB000288,PT0041,W24,16 Oct 2021,ALT,373.76IU/L,IU/L,7-56 U/L,high,A. Okafor
+LB000314,PT0117,Day 28,02.11.2022,WBC,>20.6,Giga/L,3.5-11.0 10^9/L,high,a.okafor
+LB000127,PT0079,W12,2022-04-11,AST,457.97U/L,U/L,10-40 U/L,High,C. Usman
+LB000129,PT0116,End of Study,"May 29, 2023",Malaria RDT,3.97 (titer),titer,0-0 titre,Abnormal High,a.okafor
+LB000081,PT0013,Visit 2,2023-08-18,AST,348.64 U/L,U/L,10-40 U/L,High,b.adeyemi
+LB059474,pt0116,Week 24,29/01/2021,Glucose,95.38 (mg/dL),mg/dL,70-99 mg/dL,Within Normal Limits,B. Adeyemi
+LB000295,PT0060,WEEK4,2021-10-11,Platelets,414.36,10^9/l,150-400 10^9/L,H,b.adeyemi
+LB000119,PT0087,Visit 6,11 Dec 2023,Total Bilirubin,4.0milligrams/dL,milligrams/dL,0.1-1.2 mg/dL,>ULN,AOKAFOR
+LB000280,PT0097,W12,05.12.2021,WBC,2.32 (Giga/L),Giga/L,3.5-11.0 10^9/L,Low,B. Adeyemi
+LB000102,PT0098,W12,20/02/2023,Malaria RDT,0.42titre,titre,0-0 titre,high,B Adeyemi
+LB000135,PT0050,W24,29 Aug 2022,Haemoglobin,10.51,g per dL,11.5-17.5 g/dL,LOW,C Usman
+LB000336,PT0079,WK12,07/09/2023,WBC,22.57G/L,G/L,3.5-11.0 10^9/L,HIGH,B. Adeyemi
+LB000026,PT0033,WEEK4,23 Jan 2021,AST,12.42 (IU/l),IU/l,10-40 U/L,WNL,AOKAFOR
+LB000330,PT0034,week 4,03/02/2023,Total Bilirubin,5.28,mg/dL,0.1-1.2 mg/dL,Abnormal High,C. Usman
+LB000235,PT0119,WEEK12,12.03.2023,Total Bilirubin,2.54 (mg/dL),mg/dL,0.1-1.2 mg/dL,High,A. Okafor
+LB000337,PT0039,end of study,22/10/2023,WBC,17.29Giga/L,Giga/L,3.5-11.0 10^9/L,High,A. Okafor
+LB000352,PT0122,Visit 0,12-29-2021,WBC,21.66,Giga/L,3.5-11.0 10^9/L,High,C Usman
+LB000029,PT0077,WEEK12,01 May 2023,Glucose,>338.4,milligrams/dL,70-99 mg/dL,Above Normal,CUSMAN
+LB000324,PT0069,baseline,31/01/2023,WBC,2.29,10^9/L,3.5-11.0 10^9/L,Below Normal,A. Okafor
+LB050760,pt0045,Week 12,06 Nov 2023,AST,482.49,u/L,10-40 U/L,high,C Usman
+LB000323,PT0071,End of Treatment,22 Aug 2021,Total Bilirubin,0.71 (mg/dL),mg/dL,0.1-1.2 mg/dL,normal,C. Usman
+LB000008,PT0061,Baseline,10/02/23,Haemoglobin,6.28,grams/dL,11.5-17.5 g/dL,Below Normal,c.usman
+LB000128,PT0069,Visit 4,31 Jul 2023,WBC,>15.3,10^9/L,3.5-11.0 10^9/L,Above Normal,C Usman
+LB000326,PT0114,WK24,19/10/2023,Creatinine,>9.28,mg/dl,0.6-1.3 mg/dL,Above Normal,B. Adeyemi
+LB000014,PT0099,WK24,2022-11-14,Malaria RDT,0.36 (titre),titre,0-0 titre,Abnormal High,B Adeyemi
+LB000056,PT0009,Final Visit,09-14-2022,Total Bilirubin,5.35 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,High,c.usman
+LB000340,PT0011,Visit 4,"January 07, 2023",Creatinine,>2.04,mg/dl,0.6-1.3 mg/dL,>ULN,a.okafor
+LB000147,PT0038,End of Study,06-13-2023,Haemoglobin,14.48g/dL,g/dL,11.5-17.5 g/dL,Within Normal Limits,A. Okafor
+LB000015,PT0072,W12,03-26-2022,ALT,>312.95,IU/L,7-56 U/L,HIGH,B. Adeyemi
+LB000024,PT0073,WK12,26/09/2023,Glucose,96.79mg/dl,mg/dl,70-99 mg/dL,normal,AOKAFOR
+LB000181,PT0074,BASELINE,06-04-2021,Haemoglobin,17.58 grams/dL,grams/dL,11.5-17.5 g/dL,High,b.adeyemi
+LB000194,PT0044,End of Study,03-08-2021,Platelets,383.210^9/L,10^9/L,150-400 10^9/L,Normal,b.adeyemi
+LB000083,PT0044,W12,02/24/23,Malaria RDT,2.31,titer,0-0 titre,High,c.usman
+LB000291,PT0052,W12,2022-01-29,Malaria RDT,2.44,Titre,0-0 titre,Abnormal High,a.okafor
+LB000299,PT0080,Visit 6,08/08/2021,Total Bilirubin,>7.21,milligrams/dL,0.1-1.2 mg/dL,HIGH,AOKAFOR
+LB000145,PT0012,W12,01-04-2023,Total Bilirubin,8.75,milligrams/dL,0.1-1.2 mg/dL,HIGH,AOKAFOR
+LB000137,PT0020,week 4,02.08.2022,Total Bilirubin,6.9 mg/dl,mg/dl,0.1-1.2 mg/dL,Above Normal,C Usman
+LB000096,PT0118,EOS,14 Feb 2022,Haemoglobin,8.05 (g/dL),g/dL,11.5-17.5 g/dL,low,CUSMAN
+LB000059,PT0093,Week 24,09-23-2021,WBC,>13.6,Giga/L,3.5-11.0 10^9/L,high,A. Okafor
+LB000085,PT0017,end of study,"June 17, 2022",Total Bilirubin,2.49,milligrams/dL,0.1-1.2 mg/dL,H,CUSMAN
+LB050490,pt0073,Day 1,05-24-2023,Glucose,159.53milligrams/dL,milligrams/dL,70-99 mg/dL,>ULN,b.adeyemi
+LB000277,PT0115,Week 12,22 Nov 2021,WBC,17.83,x10^9/L,3.5-11.0 10^9/L,Above Normal,AOKAFOR
+LB000091,PT0120,V0,02/10/23,Platelets,496.28 (Giga/L),Giga/L,150-400 10^9/L,High,b.adeyemi
+LB000275,PT0050,WK12,27 Jun 2022,Haemoglobin,13.44 g/dL,g/dL,11.5-17.5 g/dL,N,a.okafor
+LB000377,PT0053,baseline,"November 25, 2021",WBC,3.32G/L,G/L,3.5-11.0 10^9/L,Abnormal Low,AOKAFOR
+LB000123,PT0051,Baseline,12/03/2022,Platelets,>504.3,10^9/l,150-400 10^9/L,High,B Adeyemi
+LB000189,PT0110,EOS,16.08.2022,Glucose,>358.96,MG/DL,70-99 mg/dL,Abnormal High,B. Adeyemi
+LB000089,PT0108,End of Treatment,21.07.2023,Total Bilirubin,0.29 (MG/DL),MG/DL,0.1-1.2 mg/dL,N,B Adeyemi
+LB000308,PT0108,WK24,"July 15, 2021",Glucose,160.73,milligrams/dL,70-99 mg/dL,>ULN,A Okafor
+LB000125,PT0119,week 12,27.06.2021,Glucose,153.32mg/dL,mg/dL,70-99 mg/dL,HIGH,B. Adeyemi
+LB000169,PT0027,WK4,16/02/2023,Malaria RDT,1.45,TITRE,0-0 titre,H,A Okafor
+LB000038,PT0053,Visit 4,"November 04, 2023",Total Bilirubin,>6.73,MG/DL,0.1-1.2 mg/dL,high,CUSMAN
+LB054578,pt0022,EOT,31 Jul 2023,Haemoglobin,19.84 g/dL,g/dL,11.5-17.5 g/dL,Abnormal High,A. Okafor
+LB000007,PT0124,W4,2022-11-27,ALT,289.95 (IU/l),IU/l,7-56 U/L,HIGH,C Usman
+LB000316,PT0082,EOT,04/20/21,WBC,13.56Giga/L,Giga/L,3.5-11.0 10^9/L,>ULN,CUSMAN
+LB000010,PT0066,Day 84,"October 24, 2023",Haemoglobin,13.22grams/dL,grams/dL,11.5-17.5 g/dL,WNL,C Usman
+LB000281,PT0108,W4,"February 16, 2021",Glucose,148.25 (mg/dl),mg/dl,70-99 mg/dL,Above Normal,b.adeyemi
+LB000325,PT0062,W24,08/01/2022,Malaria RDT,2.98 (Titre),Titre,0-0 titre,High,A. Okafor
+LB000092,PT0011,Week 4,08/30/21,WBC,13.65,x10^9/L,3.5-11.0 10^9/L,>ULN,c.usman
+LB000399,PT0086,Visit 2,2022-02-25,WBC,18.34,G/L,3.5-11.0 10^9/L,high,b.adeyemi
+LB000369,PT0029,WEEK24,05 Feb 2023,Malaria RDT,0.9TITRE,TITRE,0-0 titre,high,C. Usman
+LB000094,PT0079,WK12,14 Feb 2022,Platelets,529.13 (10^9/L),10^9/L,150-400 10^9/L,H,CUSMAN
+LB000269,PT0107,Week 12,15 Aug 2023,Malaria RDT,3.9Titre,Titre,0-0 titre,Abnormal High,C. Usman
+LB000066,PT0064,Day 84,2022-05-08,Total Bilirubin,7.45,MG/DL,0.1-1.2 mg/dL,H,B. Adeyemi
+LB050450,pt0088,baseline,24/10/2021,AST,156.46IU/L,IU/L,10-40 U/L,HIGH,A. Okafor
+LB000214,PT0037,Final Visit,29 Nov 2022,ALT,170.5,Units/L,7-56 U/L,Abnormal High,A Okafor
+LB000206,PT0108,Week 12,06 Nov 2023,AST,482.49,u/L,10-40 U/L,high,C Usman
+LB000124,PT0088,BL,11/12/2023,Creatinine,8.81 mg/dl,mg/dl,0.6-1.3 mg/dL,HIGH,b.adeyemi
+LB000155,PT0011,Visit 4,29 Aug 2023,WBC,16.3910^9/l,10^9/l,3.5-11.0 10^9/L,Above Normal,C. Usman
+LB000230,PT0031,Visit 0,"March 01, 2023",WBC,14.22,G/L,3.5-11.0 10^9/L,high,A Okafor
+LB000049,PT0067,Visit 4,12 Dec 2023,Total Bilirubin,0.68 mg per dL,mg per dL,0.1-1.2 mg/dL,WNL,C Usman
+LB000041,PT0105,week 12,01-14-2022,Haemoglobin,11.66,g/dL,11.5-17.5 g/dL,N,b.adeyemi
+LB000072,PT0125,week 12,02/22/21,Creatinine,7.37 mg/dL,mg/dL,0.6-1.3 mg/dL,high,c.usman
+LB000108,PT0004,Week 4,25/06/2022,Total Bilirubin,7.35 MG/DL,MG/DL,0.1-1.2 mg/dL,>ULN,c.usman
+LB000391,PT0067,EOT,02/12/2021,Haemoglobin,11.24 (g/dL),g/dL,11.5-17.5 g/dL,Below Normal,A Okafor
+LB000074,PT0018,Day 1,05-24-2023,Glucose,159.53milligrams/dL,milligrams/dL,70-99 mg/dL,>ULN,b.adeyemi
+LB000073,PT0067,Day 168,04 Jan 2023,Haemoglobin,>17.99,G/DL,11.5-17.5 g/dL,High,C. Usman
+LB000335,PT0006,WK12,2022-11-10,Platelets,254.41 (x10^9/L),x10^9/L,150-400 10^9/L,NEG,C Usman
+LB000012,PT0016,WEEK4,2022-10-04,Malaria RDT,>1.51,TITRE,0-0 titre,Above Normal,B Adeyemi
+LB000375,PT0017,Visit 6,2021-12-07,Haemoglobin,6.85 (g/dl),g/dl,11.5-17.5 g/dL,Abnormal Low,C Usman
+LB000327,PT0069,Week 24,11/15/21,Haemoglobin,17.16g/dL,g/dL,11.5-17.5 g/dL,WNL,A Okafor
+LB000205,PT0079,WEEK12,"October 15, 2021",Creatinine,7.84mg/dl,mg/dl,0.6-1.3 mg/dL,H,B. Adeyemi
+LB000045,PT0101,Day 168,13.12.2023,Total Bilirubin,0.9mg/dl,mg/dl,0.1-1.2 mg/dL,N,B. Adeyemi
+LB000289,PT0095,baseline,2022-01-23,Glucose,90.05,mg/dL,70-99 mg/dL,normal,C. Usman
+LB000101,PT0072,WEEK24,10/19/21,Total Bilirubin,2.14mg per dL,mg per dL,0.1-1.2 mg/dL,Abnormal High,C Usman
+LB000365,PT0011,Week 24,01/06/21,Platelets,547.2 10^9/L,10^9/L,150-400 10^9/L,H,B. Adeyemi
+LB000256,PT0032,week 12,"December 08, 2021",Creatinine,9.82milligrams/dL,milligrams/dL,0.6-1.3 mg/dL,HIGH,C. Usman
+LB000203,PT0055,W4,07/08/21,Creatinine,1.64MG/DL,MG/DL,0.6-1.3 mg/dL,Above Normal,CUSMAN
+LB000282,PT0009,W24,03-25-2023,Creatinine,1.75 mg per dL,mg per dL,0.6-1.3 mg/dL,>ULN,a.okafor
+LB000311,PT0012,week 12,27.11.2023,AST,227.69,u/l,10-40 U/L,High,C. Usman
+LB000215,PT0110,Final Visit,03-11-2022,Malaria RDT,3.89,titre,0-0 titre,high,AOKAFOR
+LB000197,PT0055,end of study,29 Apr 2023,Platelets,474.1910^9/l,10^9/l,150-400 10^9/L,Above Normal,CUSMAN
+LB000217,PT0006,end of study,03-03-2022,Total Bilirubin,2.08mg per dL,mg per dL,0.1-1.2 mg/dL,high,B Adeyemi
+LB000211,PT0098,WEEK4,08-30-2022,WBC,1.29 G/L,G/L,3.5-11.0 10^9/L,Low,B. Adeyemi
+LB000003,PT0037,Week 24,23 May 2021,Glucose,>141.94,mg/dL,70-99 mg/dL,Above Normal,c.usman
+LB000042,PT0083,Day 84,01/03/2023,Total Bilirubin,6.52 (MG/DL),MG/DL,0.1-1.2 mg/dL,High,C. Usman
+LB000364,PT0073,Visit 4,2023-07-30,Malaria RDT,2.34Titre,Titre,0-0 titre,>ULN,c.usman
+LB000313,PT0103,BASELINE,06/19/23,Haemoglobin,14.25G/DL,G/DL,11.5-17.5 g/dL,Within Normal Limits,a.okafor
+LB000180,PT0037,BL,02 Feb 2022,Platelets,464.17G/L,G/L,150-400 10^9/L,high,A Okafor
+LB000005,PT0083,Visit 6,2022-09-27,AST,268.01 (u/L),u/L,10-40 U/L,Above Normal,C Usman
+LB000177,PT0047,W12,17.08.2021,Malaria RDT,2.56Titre,Titre,0-0 titre,Above Normal,CUSMAN
+LB000192,PT0125,W4,15/06/2022,Haemoglobin,11.68 g/dl,g/dl,11.5-17.5 g/dL,WNL,A. Okafor
+LB000381,PT0038,End of Treatment,2023-01-13,AST,292.89 U/L,U/L,10-40 U/L,Abnormal High,B. Adeyemi
+LB000154,PT0071,EOT,21.07.2023,Platelets,297.54 (10^9/L),10^9/L,150-400 10^9/L,Normal,a.okafor
+LB000332,PT0108,baseline,09 Jul 2023,Creatinine,3.06mg/dL,mg/dL,0.6-1.3 mg/dL,Above Normal,A Okafor
+LB000307,PT0086,WEEK12,01-11-2022,Creatinine,>3.55,MG/DL,0.6-1.3 mg/dL,High,A. Okafor
+LB000047,PT0066,Week 24,29/01/2021,Glucose,95.38 (mg/dL),mg/dL,70-99 mg/dL,Within Normal Limits,B. Adeyemi
+LB000176,PT0079,WK4,06/14/21,WBC,23.37Giga/L,Giga/L,3.5-11.0 10^9/L,HIGH,C Usman
+LB000342,PT0087,Day 1,2023-08-29,ALT,304.47 (IU/l),IU/l,7-56 U/L,Above Normal,AOKAFOR
+LB000053,PT0006,baseline,09-11-2022,Creatinine,>3.37,mg per dL,0.6-1.3 mg/dL,>ULN,c.usman
+LB000100,PT0071,baseline,10-22-2022,Malaria RDT,1.5Titre,Titre,0-0 titre,High,C. Usman
+LB000134,PT0108,baseline,2022-08-19,WBC,23.03,10^9/l,3.5-11.0 10^9/L,Abnormal High,CUSMAN
+LB000148,PT0055,Visit 4,2023-09-14,Haemoglobin,6.33grams/dL,grams/dL,11.5-17.5 g/dL,Low,CUSMAN
+LB000151,PT0052,EOS,2023-04-16,Creatinine,3.31 mg/dl,mg/dl,0.6-1.3 mg/dL,Above Normal,c.usman
+LB000186,PT0098,Week 4,10-10-2023,Glucose,127.67 (MG/DL),MG/DL,70-99 mg/dL,H,AOKAFOR
+LB000071,PT0097,Visit 4,2021-01-15,AST,118.79 IU/L,IU/L,10-40 U/L,High,B Adeyemi
+LB000114,PT0046,Day 1,05/25/21,Platelets,525.37 (10^9/l),10^9/l,150-400 10^9/L,>ULN,A Okafor
+LB000195,PT0119,Visit 2,01-18-2021,Platelets,<91.7,10^9/l,150-400 10^9/L,low,C. Usman
+LB000361,PT0074,V0,2022-11-14,Creatinine,3.94MG/DL,MG/DL,0.6-1.3 mg/dL,HIGH,CUSMAN
+LB000076,PT0018,baseline,"February 23, 2021",Creatinine,0.65MG/DL,MG/DL,0.6-1.3 mg/dL,WNL,CUSMAN
+LB000153,PT0039,WEEK24,27/06/2022,AST,19.54,IU/L,10-40 U/L,WNL,A. Okafor
+LB000227,PT0044,WK24,"March 22, 2022",Haemoglobin,5.13g per dL,g per dL,11.5-17.5 g/dL,low,C. Usman
+LB000065,PT0067,WK4,28 Jan 2023,Haemoglobin,12.28 (g per dL),g per dL,11.5-17.5 g/dL,NEG,B Adeyemi
+LB000117,PT0059,Visit 2,12 Nov 2023,Creatinine,2.49,MG/DL,0.6-1.3 mg/dL,>ULN,B Adeyemi
+LB000278,PT0093,V0,"June 27, 2023",WBC,10.5,10^9/L,3.5-11.0 10^9/L,Within Normal Limits,AOKAFOR
+LB000396,PT0025,week 24,18.10.2023,Creatinine,>1.62,mg per dL,0.6-1.3 mg/dL,>ULN,a.okafor
+LB000236,PT0011,Day 84,11/20/23,Total Bilirubin,5.02mg per dL,mg per dL,0.1-1.2 mg/dL,High,c.usman
+LB000397,PT0014,End of Treatment,2022-08-20,Platelets,102.14 Giga/L,Giga/L,150-400 10^9/L,low,c.usman
+LB000360,PT0074,week 4,"August 05, 2021",Platelets,231.37G/L,G/L,150-400 10^9/L,Normal,CUSMAN
+LB000319,PT0032,W24,10/27/23,Malaria RDT,1.58titer,titer,0-0 titre,H,A. Okafor
+LB000051,PT0080,Visit 4,"May 21, 2022",Total Bilirubin,>5.47,milligrams/dL,0.1-1.2 mg/dL,Abnormal High,CUSMAN
+LB000356,PT0049,Day 84,14 Dec 2022,AST,481.82 (Units/L),Units/L,10-40 U/L,>ULN,AOKAFOR
+LB000156,PT0087,W4,27.10.2022,Creatinine,4.4 mg per dL,mg per dL,0.6-1.3 mg/dL,HIGH,CUSMAN
+LB000036,PT0036,Visit 4,11 Mar 2022,Haemoglobin,15.31,G/DL,11.5-17.5 g/dL,normal,B. Adeyemi
+LB000229,PT0113,V0,"February 02, 2022",Haemoglobin,19.98 (g/dL),g/dL,11.5-17.5 g/dL,HIGH,c.usman
+LB000112,PT0076,week 12,21/07/2023,Malaria RDT,3.26 Titre,Titre,0-0 titre,H,c.usman
+LB000068,PT0061,Week 4,08-11-2023,Total Bilirubin,5.21 (mg per dL),mg per dL,0.1-1.2 mg/dL,>ULN,A Okafor
+LB000021,PT0019,Day 28,04-21-2021,ALT,125.19 (IU/l),IU/l,7-56 U/L,High,a.okafor
+LB000138,PT0075,EOT,16 Jun 2021,AST,47.86u/l,u/l,10-40 U/L,H,B. Adeyemi
+LB000018,PT0093,week 12,"November 09, 2023",Platelets,>472.67,Giga/L,150-400 10^9/L,high,B. Adeyemi
+LB000213,PT0058,WEEK4,17 Aug 2022,Malaria RDT,2.93 titre,titre,0-0 titre,Abnormal High,B. Adeyemi
+LB000398,PT0036,WEEK24,"October 12, 2023",Creatinine,>7.67,mg/dl,0.6-1.3 mg/dL,Abnormal High,CUSMAN
+LB000120,PT0038,WEEK12,01-27-2021,ALT,432.64 u/l,u/l,7-56 U/L,Abnormal High,CUSMAN
+LB000146,PT0076,Visit 2,"January 04, 2021",AST,>307.09,u/L,10-40 U/L,HIGH,a.okafor
+LB000379,PT0053,EOT,09-14-2021,Total Bilirubin,8.05 (MG/DL),MG/DL,0.1-1.2 mg/dL,Abnormal High,A Okafor
+LB000268,PT0052,baseline,11.09.2021,Total Bilirubin,0.66 MG/DL,MG/DL,0.1-1.2 mg/dL,NEG,C. Usman
+LB000178,PT0114,Day 168,21/11/2021,Glucose,89.75,milligrams/dL,70-99 mg/dL,Within Normal Limits,C. Usman
+LB000209,PT0073,Visit 6,08/09/2021,Glucose,391.46MG/DL,MG/DL,70-99 mg/dL,high,a.okafor
+LB000062,PT0066,Day 84,13 Jan 2022,Total Bilirubin,0.53 mg per dL,mg per dL,0.1-1.2 mg/dL,Normal,C. Usman
+LB000339,PT0038,week 4,11-14-2021,Haemoglobin,6.57,grams/dL,11.5-17.5 g/dL,<LLN,c.usman
+LB000009,PT0009,WEEK12,04-07-2021,Total Bilirubin,9.62,MG/DL,0.1-1.2 mg/dL,high,A Okafor
+LB000301,PT0092,Final Visit,"September 23, 2022",Glucose,320.19 mg/dl,mg/dl,70-99 mg/dL,high,b.adeyemi
+LB000139,PT0058,week 4,10/27/23,Glucose,76.6MG/DL,MG/DL,70-99 mg/dL,Within Normal Limits,CUSMAN
+LB000034,PT0004,End of Treatment,23.07.2023,Platelets,164.04,10^9/l,150-400 10^9/L,Normal,c.usman
+LB000133,PT0054,Final Visit,29 Sep 2021,Creatinine,6.46,mg/dL,0.6-1.3 mg/dL,HIGH,C. Usman
+LB000312,PT0062,Visit 6,11/08/22,AST,142.92 IU/l,IU/l,10-40 U/L,High,a.okafor
+LB000149,PT0111,EOT,12/26/21,Platelets,352.25 (G/L),G/L,150-400 10^9/L,NEG,A Okafor
+LB000033,PT0063,EOT,15 Feb 2021,ALT,473.93,U/L,7-56 U/L,H,B Adeyemi
+LB000371,PT0090,WEEK24,"June 27, 2022",AST,410.61 IU/L,IU/L,10-40 U/L,Above Normal,CUSMAN
+LB000167,PT0108,End of Treatment,16 Nov 2023,Malaria RDT,>0.72,Titer,0-0 titre,>ULN,b.adeyemi
+LB000070,PT0047,V0,05-31-2023,ALT,393.99u/l,u/l,7-56 U/L,>ULN,B Adeyemi
+LB000048,PT0032,End of Study,04-15-2021,Glucose,337.03 (MG/DL),MG/DL,70-99 mg/dL,high,B Adeyemi
+LB000141,PT0117,W12,07.09.2023,Platelets,239.6,Giga/L,150-400 10^9/L,N,AOKAFOR
+LB000237,PT0093,week 12,07/23/21,Haemoglobin,19.35g/dl,g/dl,11.5-17.5 g/dL,Above Normal,a.okafor
+LB000187,PT0060,End of Treatment,11/02/23,Total Bilirubin,3.28 mg/dL,mg/dL,0.1-1.2 mg/dL,HIGH,CUSMAN
+LB000347,PT0099,BL,12-23-2023,Creatinine,1.52 (mg/dL),mg/dL,0.6-1.3 mg/dL,High,AOKAFOR
+LB000001,PT0013,Visit 0,24/09/2022,Platelets,471.71 (10^9/L),10^9/L,150-400 10^9/L,high,C Usman
+LB000193,PT0047,week 12,2023-10-23,Malaria RDT,3.46titer,titer,0-0 titre,HIGH,CUSMAN
+LB000116,PT0071,EOS,22/02/2021,Platelets,>599.69,10^9/L,150-400 10^9/L,HIGH,C. Usman
+LB000190,PT0017,BASELINE,2021-08-21,Platelets,451.51x10^9/L,x10^9/L,150-400 10^9/L,Abnormal High,b.adeyemi
+LB000032,PT0061,EOT,14.08.2022,Creatinine,9.92MG/DL,MG/DL,0.6-1.3 mg/dL,HIGH,B. Adeyemi
+LB000374,PT0092,Week 12,05-02-2023,Total Bilirubin,>3.78,mg per dL,0.1-1.2 mg/dL,>ULN,B Adeyemi
+LB000220,PT0050,End of Treatment,11/08/2021,WBC,23.3710^9/L,10^9/L,3.5-11.0 10^9/L,Abnormal High,A Okafor
+LB000348,PT0038,W24,"April 05, 2021",Platelets,82.96G/L,G/L,150-400 10^9/L,<LLN,c.usman
+LB000338,PT0002,week 12,2023-03-12,Platelets,410.53 10^9/L,10^9/L,150-400 10^9/L,Abnormal High,a.okafor
+LB000247,PT0020,Week 24,19/06/2021,WBC,3.73,x10^9/L,3.5-11.0 10^9/L,N,B. Adeyemi
+LB000140,PT0018,Baseline,2023-09-12,AST,92.22 (u/L),u/L,10-40 U/L,H,AOKAFOR
+LB000383,PT0090,Visit 2,07/21/22,Malaria RDT,0.85,TITRE,0-0 titre,HIGH,A. Okafor
+LB000175,PT0080,WEEK4,08/11/23,Glucose,190.84 MG/DL,MG/DL,70-99 mg/dL,Abnormal High,b.adeyemi
+LB000279,PT0059,WK4,01-17-2022,WBC,>15.32,10^9/l,3.5-11.0 10^9/L,High,A. Okafor
+LB000368,PT0062,BASELINE,15.11.2023,Creatinine,4.27 mg/dL,mg/dL,0.6-1.3 mg/dL,HIGH,AOKAFOR
+LB000349,PT0014,Week 24,30.11.2021,Creatinine,7.04MG/DL,MG/DL,0.6-1.3 mg/dL,Abnormal High,C. Usman
+LB000099,PT0064,Day 168,12/04/21,Platelets,>591.06,x10^9/L,150-400 10^9/L,High,AOKAFOR
+LB000251,PT0093,WEEK24,"July 22, 2022",ALT,296.7,u/l,7-56 U/L,high,a.okafor
+LB000039,PT0030,BASELINE,2023-01-09,WBC,17.05 (10^9/L),10^9/L,3.5-11.0 10^9/L,High,A. Okafor
+LB000173,PT0032,week 24,05 Jun 2023,WBC,>22.34,10^9/L,3.5-11.0 10^9/L,Above Normal,C Usman
+LB000159,PT0124,Visit 2,05-26-2023,AST,259.16 u/L,u/L,10-40 U/L,>ULN,c.usman
+LB000044,PT0013,W4,21 May 2022,Creatinine,3.03 milligrams/dL,milligrams/dL,0.6-1.3 mg/dL,Abnormal High,c.usman
+LB000218,PT0043,W24,04/29/22,Haemoglobin,18.05 g/dL,g/dL,11.5-17.5 g/dL,>ULN,c.usman
+LB000183,PT0080,Visit 6,"October 26, 2021",Haemoglobin,18.64g per dL,g per dL,11.5-17.5 g/dL,>ULN,CUSMAN
+LB000259,PT0059,end of study,"April 12, 2021",Total Bilirubin,>8.88,mg/dl,0.1-1.2 mg/dL,high,CUSMAN
+LB000387,PT0125,Day 168,2022-11-30,Total Bilirubin,1.78 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,>ULN,C Usman
+LB000366,PT0064,W12,"October 02, 2021",Platelets,>592.18,x10^9/L,150-400 10^9/L,Abnormal High,c.usman
+LB000390,PT0113,End of Study,06.01.2022,Malaria RDT,3.96Titre,Titre,0-0 titre,High,CUSMAN
+LB000043,PT0005,Week 12,27.08.2021,WBC,15.2x10^9/L,x10^9/L,3.5-11.0 10^9/L,H,a.okafor
+LB000113,PT0060,Day 1,02/03/21,AST,72.36u/L,u/L,10-40 U/L,H,b.adeyemi
+LB000370,PT0074,end of study,06/01/23,Platelets,>461.11,G/L,150-400 10^9/L,H,a.okafor
+LB000110,PT0009,Day 1,17/05/2023,Haemoglobin,18.54 (g/dL),g/dL,11.5-17.5 g/dL,Abnormal High,AOKAFOR
+LB000131,PT0097,Week 4,01/05/21,Total Bilirubin,9.6 (mg per dL),mg per dL,0.1-1.2 mg/dL,Above Normal,C. Usman
+LB000136,PT0103,Day 28,"November 18, 2021",AST,121.2 U/L,U/L,10-40 U/L,High,a.okafor
+LB000165,PT0004,Day 84,18/12/2023,Platelets,295.49,G/L,150-400 10^9/L,N,B. Adeyemi
+LB000200,PT0124,Day 28,2022-08-10,Haemoglobin,12.18 (g/dL),g/dL,11.5-17.5 g/dL,Normal,c.usman
+LB000297,PT0020,End of Treatment,03-20-2023,Platelets,95.78x10^9/L,x10^9/L,150-400 10^9/L,L,B. Adeyemi
+LB000122,PT0062,End of Study,12/05/2021,Total Bilirubin,3.89 mg/dl,mg/dl,0.1-1.2 mg/dL,>ULN,AOKAFOR
+LB000063,PT0072,WK4,01/01/2023,AST,>304.43,U/L,10-40 U/L,H,b.adeyemi
+LB000207,PT0041,Visit 0,17.08.2021,Haemoglobin,15.89 grams/dL,grams/dL,11.5-17.5 g/dL,N,A Okafor
+LB000150,PT0103,end of study,"August 23, 2022",Creatinine,4.04 (mg/dL),mg/dL,0.6-1.3 mg/dL,>ULN,AOKAFOR
+LB000302,PT0053,week 24,"June 10, 2022",ALT,43.1,U/L,7-56 U/L,normal,a.okafor
+LB060495,PT9620,W24,28/09/2022,Platelets,341.94 (x10^9/L),x10^9/L,150-400 10^9/L,NEG,A. Okafor
+LB000376,PT0066,Day 168,"January 13, 2023",Haemoglobin,17.23,g/dl,11.5-17.5 g/dL,N,CUSMAN
+LB000305,PT0068,Final Visit,01/31/23,Creatinine,2.85mg/dl,mg/dl,0.6-1.3 mg/dL,Above Normal,CUSMAN
+LB000058,PT0020,EOS,"August 01, 2021",Glucose,278.44,mg per dL,70-99 mg/dL,>ULN,C. Usman
+LB000060,PT0086,Visit 2,"May 12, 2023",Haemoglobin,9.43 (g per dL),g per dL,11.5-17.5 g/dL,LOW,B Adeyemi
+LB000086,PT0049,Visit 0,12/14/21,Platelets,223.59 (Giga/L),Giga/L,150-400 10^9/L,Within Normal Limits,A Okafor
+LB000304,PT0098,WK12,06-16-2021,ALT,233.27 U/L,U/L,7-56 U/L,HIGH,B. Adeyemi
+LB000353,PT0111,W24,2021-12-21,Total Bilirubin,1.56 MG/DL,MG/DL,0.1-1.2 mg/dL,high,B. Adeyemi
+LB000384,PT0033,Day 168,05-07-2021,WBC,10.4810^9/l,10^9/l,3.5-11.0 10^9/L,NEG,CUSMAN
+LB000185,PT0036,Visit 0,"March 21, 2021",ALT,499.05 (U/L),U/L,7-56 U/L,High,A. Okafor
+LB000254,PT0034,End of Treatment,11-27-2023,ALT,>281.54,u/l,7-56 U/L,H,AOKAFOR
+LB000315,PT0025,WEEK4,06-17-2022,WBC,>21.18,Giga/L,3.5-11.0 10^9/L,HIGH,B Adeyemi
+LB000170,PT0071,week 12,18.09.2022,Glucose,87.16mg per dL,mg per dL,70-99 mg/dL,WNL,c.usman
+LB000201,PT0016,Visit 0,10/06/2023,Haemoglobin,15.93,g/dl,11.5-17.5 g/dL,Within Normal Limits,C Usman
+LB000028,PT0098,Visit 6,20/12/2022,Haemoglobin,6.35,G/DL,11.5-17.5 g/dL,Abnormal Low,C Usman
+LB000378,PT0013,WEEK12,12-11-2022,Total Bilirubin,6.13 mg/dL,mg/dL,0.1-1.2 mg/dL,Abnormal High,b.adeyemi
+LB000329,PT0009,V0,2023-02-20,Total Bilirubin,7.71 (mg/dl),mg/dl,0.1-1.2 mg/dL,HIGH,B Adeyemi
+LB000238,PT0118,BL,2022-06-19,Platelets,551.64,Giga/L,150-400 10^9/L,Abnormal High,c.usman
+LB000328,PT0100,WK12,06-12-2023,Total Bilirubin,4.65 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,Abnormal High,B Adeyemi
+LB000082,PT0013,Week 4,06.02.2021,WBC,20.97 (Giga/L),Giga/L,3.5-11.0 10^9/L,HIGH,AOKAFOR
+LB000221,PT0049,WK12,04-11-2022,AST,>395.8,u/l,10-40 U/L,Abnormal High,A Okafor
+LB000016,PT0077,WEEK24,30.11.2021,ALT,>423.01,U/L,7-56 U/L,>ULN,A. Okafor
+LB000286,PT0035,End of Treatment,2023-02-06,AST,205.62,IU/l,10-40 U/L,High,B. Adeyemi
+LB000080,PT0007,EOT,2022-08-27,Creatinine,>5.09,milligrams/dL,0.6-1.3 mg/dL,Above Normal,a.okafor
+LB000196,PT0049,Baseline,19 Jul 2023,Creatinine,9.64MG/DL,MG/DL,0.6-1.3 mg/dL,HIGH,c.usman
+LB000158,PT0086,W12,"September 24, 2021",Glucose,124.48 (milligrams/dL),milligrams/dL,70-99 mg/dL,HIGH,C Usman
+LB000400,PT0088,WK12,30/09/2022,ALT,47.93 (Units/L),Units/L,7-56 U/L,normal,C. Usman
+LB000191,PT0104,Visit 4,23.11.2022,Malaria RDT,1.17 (titre),titre,0-0 titre,Above Normal,B. Adeyemi
+LB000202,PT0039,EOT,"July 05, 2021",AST,176.77 (IU/l),IU/l,10-40 U/L,H,B Adeyemi
+LB000162,PT0046,WEEK4,13/06/2021,ALT,450.81 (U/L),U/L,7-56 U/L,Above Normal,B Adeyemi
+LB000249,PT0113,end of study,15.02.2023,WBC,20.57 x10^9/L,x10^9/L,3.5-11.0 10^9/L,H,B. Adeyemi
+LB000354,PT0033,week 12,15/07/2022,Total Bilirubin,2.41,milligrams/dL,0.1-1.2 mg/dL,Abnormal High,A Okafor
+LB000171,PT0070,week 4,01/23/21,Creatinine,4.6 milligrams/dL,milligrams/dL,0.6-1.3 mg/dL,HIGH,c.usman
+LB000351,PT0053,Visit 0,25/03/2023,Creatinine,9.43 (mg/dl),mg/dl,0.6-1.3 mg/dL,high,b.adeyemi
+LB000231,PT0083,Visit 6,04-09-2022,Platelets,317.45 Giga/L,Giga/L,150-400 10^9/L,WNL,C Usman
+LB000344,PT0017,V0,02/05/2021,Haemoglobin,15.78g per dL,g per dL,11.5-17.5 g/dL,WNL,A Okafor
+LB000105,PT0100,Visit 4,10/31/22,Total Bilirubin,8.91 (milligrams/dL),milligrams/dL,0.1-1.2 mg/dL,high,B. Adeyemi
+LB054295,pt0010,Week 24,30.11.2021,Creatinine,7.04MG/DL,MG/DL,0.6-1.3 mg/dL,Abnormal High,C. Usman
+LB000373,PT0030,End of Study,12/12/2023,Malaria RDT,2.53 titre,titre,0-0 titre,high,CUSMAN
+LB000298,PT0107,week 4,"September 25, 2022",Creatinine,0.97 (mg per dL),mg per dL,0.6-1.3 mg/dL,Normal,b.adeyemi
+LB000111,PT0012,end of study,01.12.2021,Creatinine,7.66 (mg/dl),mg/dl,0.6-1.3 mg/dL,HIGH,b.adeyemi
+LB000223,PT0036,Day 84,2022-06-17,Creatinine,4.75MG/DL,MG/DL,0.6-1.3 mg/dL,>ULN,CUSMAN
+LB000306,PT0011,W4,12/20/23,AST,376.57 (IU/L),IU/L,10-40 U/L,Abnormal High,B. Adeyemi
+LB000276,PT0111,week 24,2022-09-10,Platelets,308.3 G/L,G/L,150-400 10^9/L,Normal,A Okafor
+LB000245,PT0029,WK24,"September 17, 2021",Glucose,124.28mg/dl,mg/dl,70-99 mg/dL,HIGH,AOKAFOR
+LB000293,PT0097,W24,12-08-2023,Creatinine,>3.24,mg/dl,0.6-1.3 mg/dL,HIGH,a.okafor
+LB000142,PT0069,Week 24,05/18/21,WBC,0.53 Giga/L,Giga/L,3.5-11.0 10^9/L,Below Normal,C Usman
+LB000093,PT0109,Visit 2,06.10.2022,Platelets,239.66,G/L,150-400 10^9/L,Normal,c.usman

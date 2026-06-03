@@ -1,0 +1,6 @@
+site_id,site_name,state,principal_investigator,phase,max_enrollment
+SITE01,Lagos University Teaching Hospital,Lagos,Dr. Adebayo Okonkwo,III,50
+SITE02,University of Nigeria Teaching Hospital,Enugu,Dr. Chioma Nwosu,III,40
+SITE03,Aminu Kano Teaching Hospital,Kano,Dr. Ibrahim Musa,III,45
+SITE04,University of Benin Teaching Hospital,Delta,Dr. Osazemen Akhigbe,III,35
+SITE05,University of Port Harcourt Teaching Hospital,Rivers,Dr. Ngozi Amaechi,III,60
